@@ -2,6 +2,8 @@
 <database>
     <element label="Friday Night Adapter Testing Table" max_length="40" name="x_trg_friday_night_adapter_testing_table" type="collection">
         <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Time" max_length="40" name="u_cfsb_backup_time" type="glide_time"/>
+        <element label="Time" max_length="40" name="u_cfsb_primary_time" type="glide_time"/>
         <element attributes="edge_encryption_enabled=true" choice="1" default="EAS09" label="CSFB Backup" max_length="40" name="u_csfb_backup" type="string">
             <choice>
                 <element label="EAS09" sequence="0" value="EAS09"/>
@@ -38,6 +40,33 @@
                 <element label="No" sequence="1" value="No"/>
             </choice>
         </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Connected" max_length="40" name="u_csrs_backup_connected" type="string">
+            <choice>
+                <element label="Yes" sequence="0" value="Yes"/>
+                <element label="No" sequence="1" value="No"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Tested" max_length="40" name="u_csrs_backup_tested" type="string">
+            <choice>
+                <element label="Yes" sequence="0" value="Yes"/>
+                <element label="No" sequence="1" value="No"/>
+            </choice>
+        </element>
+        <element label="Time" max_length="40" name="u_csrs_backup_time" type="glide_time"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Connected" max_length="40" name="u_csrs_connected_tested" type="string">
+            <choice>
+                <element label="Yes" sequence="0" value="Yes"/>
+                <element label="No" sequence="1" value="No"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Tested" max_length="40" name="u_csrs_primary_tested" type="string">
+            <choice>
+                <element label="Choice 1" sequence="0" value="Choice 1"/>
+                <element label="Choice 2" sequence="1" value="Choice 2"/>
+                <element label="Choice 3" sequence="2" value="Choice 3"/>
+            </choice>
+        </element>
+        <element label="Time" max_length="40" name="u_csrs_primary_time" type="glide_time"/>
         <element attributes="edge_encryption_enabled=true" choice="1" label="Connected" max_length="40" name="u_eurx_backup" type="string">
             <choice>
                 <element label="Yes" sequence="0" value="Yes"/>
@@ -76,6 +105,7 @@
                 <element label="No" sequence="1" value="No"/>
             </choice>
         </element>
+        <element label="Time" max_length="40" name="u_kcg_backup_time" type="glide_time"/>
         <element attributes="edge_encryption_enabled=true" choice="1" label="Connected" max_length="40" name="u_kcg_primary_connected" type="string">
             <choice>
                 <element label="Yes" sequence="0" value="Yes"/>
@@ -88,5 +118,6 @@
                 <element label="No" sequence="1" value="No"/>
             </choice>
         </element>
+        <element label="Time" max_length="40" name="u_kcg_primary_time" type="glide_time"/>
     </element>
 </database>
