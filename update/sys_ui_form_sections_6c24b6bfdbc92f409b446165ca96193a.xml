@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_form_sections form_id="6c24b6bfdbc92f409b446165ca96193a" sys_domain="global" table="x_trg_friday_night_adapter_testing_table" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>jcampos-admin</sys_created_by>
+            <sys_created_on>2018-10-16 16:23:10</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>6424b6bfdbc92f409b446165ca96193d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_trg_friday_night_adapter_testing_table" name="x_trg_friday_night_adapter_testing_table" sys_domain="global" view="Default view">6c24b6bfdbc92f409b446165ca96193a</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_trg_friday_night_adapter_testing_table" sys_domain="global" view="Default view">d893b6bfdbc92f409b446165ca9619c9</sys_ui_section>
+            <sys_updated_by>jcampos-admin</sys_updated_by>
+            <sys_updated_on>2018-10-16 16:23:10</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>jcampos-admin</sys_created_by>
+            <sys_created_on>2018-11-01 12:53:26</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>849dd001dbe123007d8f3a92ba96199b</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_trg_friday_night_adapter_testing_table" name="x_trg_friday_night_adapter_testing_table" sys_domain="global" view="Default view">6c24b6bfdbc92f409b446165ca96193a</sys_ui_form>
+            <sys_ui_section caption="Testing to be started at 4:20 PM" display_value="Testing to be started at 4:20 PM" name="x_trg_friday_night_adapter_testing_table" sys_domain="global" view="Default view">0c9dd001dbe123007d8f3a92ba961998</sys_ui_section>
+            <sys_updated_by>jcampos-admin</sys_updated_by>
+            <sys_updated_on>2018-11-01 12:53:26</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>jcampos-admin</sys_created_by>
+            <sys_created_on>2018-11-01 12:49:17</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d79c1ccddba123007d8f3a92ba961987</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_trg_friday_night_adapter_testing_table" name="x_trg_friday_night_adapter_testing_table" sys_domain="global" view="Default view">6c24b6bfdbc92f409b446165ca96193a</sys_ui_form>
+            <sys_ui_section caption="Testing to be started at 4:30 PM" display_value="Testing to be started at 4:30 PM" name="x_trg_friday_night_adapter_testing_table" sys_domain="global" view="Default view">1f9c18cddba123007d8f3a92ba9619b9</sys_ui_section>
+            <sys_updated_by>jcampos-admin</sys_updated_by>
+            <sys_updated_on>2018-11-01 12:53:26</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_trg_friday_night_adapter_testing_table</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>jcampos-admin</sys_created_by>
+            <sys_created_on>2018-10-16 16:23:10</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>6c24b6bfdbc92f409b446165ca96193a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_trg_friday_night_adapter_testing_table</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Friday Night Adapter Testing" source="x_trg_friday_night">2f4332ffdb892f409b446165ca9619a3</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Friday Night Adapter Testing">2f4332ffdb892f409b446165ca9619a3</sys_scope>
+            <sys_update_name>sys_ui_form_sections_6c24b6bfdbc92f409b446165ca96193a</sys_update_name>
+            <sys_updated_by>jcampos-admin</sys_updated_by>
+            <sys_updated_on>2018-10-16 16:23:10</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

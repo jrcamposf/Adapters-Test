@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>jcampos-admin</sys_created_by>
+        <sys_created_on>2018-10-16 16:19:34</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>bb43f2bfdbc92f409b446165ca9619be</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_trg_friday_night_adapter_testing_table.x_trg_friday_night.user</sys_name>
+        <sys_package display_value="Friday Night Adapter Testing" source="x_trg_friday_night">2f4332ffdb892f409b446165ca9619a3</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Friday Night Adapter Testing">2f4332ffdb892f409b446165ca9619a3</sys_scope>
+        <sys_security_acl display_value="x_trg_friday_night_adapter_testing_table">3743f2bfdbc92f409b446165ca9619bc</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_bb43f2bfdbc92f409b446165ca9619be</sys_update_name>
+        <sys_updated_by>jcampos-admin</sys_updated_by>
+        <sys_updated_on>2018-10-16 16:19:34</sys_updated_on>
+        <sys_user_role display_value="x_trg_friday_night.user" name="x_trg_friday_night.user">b743be7fdbc92f409b446165ca961950</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>
