@@ -5,13 +5,41 @@
             <element>number</element>
             <position>0</position>
             <sys_created_by>jcampos-admin</sys_created_by>
-            <sys_created_on>2018-11-01 12:53:26</sys_created_on>
-            <sys_id>1c9d5401dbe123007d8f3a92ba961910</sys_id>
+            <sys_created_on>2018-11-08 12:40:17</sys_created_on>
+            <sys_id>73addcd7dba1e3007d8f3a92ba96199d</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_trg_friday_night_adapter_testing_table" sys_domain="global" view="Default view">d893b6bfdbc92f409b446165ca9619c9</sys_ui_section>
             <sys_updated_by>jcampos-admin</sys_updated_by>
-            <sys_updated_on>2018-11-01 12:53:26</sys_updated_on>
+            <sys_updated_on>2018-11-08 12:40:17</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>1</position>
+            <sys_created_by>jcampos-admin</sys_created_by>
+            <sys_created_on>2018-11-08 12:40:17</sys_created_on>
+            <sys_id>f3addcd7dba1e3007d8f3a92ba96199d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_trg_friday_night_adapter_testing_table" sys_domain="global" view="Default view">d893b6bfdbc92f409b446165ca9619c9</sys_ui_section>
+            <sys_updated_by>jcampos-admin</sys_updated_by>
+            <sys_updated_on>2018-11-08 12:40:17</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_live_farm</element>
+            <position>2</position>
+            <sys_created_by>jcampos-admin</sys_created_by>
+            <sys_created_on>2018-11-08 12:40:17</sys_created_on>
+            <sys_id>77addcd7dba1e3007d8f3a92ba96199d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_trg_friday_night_adapter_testing_table" sys_domain="global" view="Default view">d893b6bfdbc92f409b446165ca9619c9</sys_ui_section>
+            <sys_updated_by>jcampos-admin</sys_updated_by>
+            <sys_updated_on>2018-11-08 12:40:17</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>

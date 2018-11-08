@@ -2,8 +2,170 @@
 <database>
     <element label="Friday Night Adapter Testing Table" max_length="40" name="x_trg_friday_night_adapter_testing_table" type="collection">
         <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Connected" max_length="40" name="u_amex_backup_connected" type="string">
+            <choice>
+                <element label="Yes" sequence="0" value="Yes"/>
+                <element label="No" sequence="1" value="No"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Tested" max_length="40" name="u_amex_backup_tested" type="string">
+            <choice>
+                <element label="Yes" sequence="0" value="Yes"/>
+                <element label="No" sequence="1" value="No"/>
+            </choice>
+        </element>
+        <element label="Time" max_length="40" name="u_amex_backup_time" type="glide_time"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Connected" max_length="40" name="u_amex_primary_connected" type="string">
+            <choice>
+                <element label="Yes" sequence="0" value="Yes"/>
+                <element label="No" sequence="1" value="No"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Tested" max_length="40" name="u_amex_primary_tested" type="string">
+            <choice>
+                <element label="Yes" sequence="0" value="Yes"/>
+                <element label="No" sequence="1" value="No"/>
+            </choice>
+        </element>
+        <element label="Time" max_length="40" name="u_amex_primary_time" type="glide_time"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Connected" max_length="40" name="u_arca_backup_connected" type="string">
+            <choice>
+                <element label="Yes" sequence="0" value="Yes"/>
+                <element label="No" sequence="1" value="No"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Tested" max_length="40" name="u_arca_backup_tested" type="string">
+            <choice>
+                <element label="Yes" sequence="0" value="Yes"/>
+                <element label="No" sequence="1" value="No"/>
+            </choice>
+        </element>
+        <element label="Time" max_length="40" name="u_arca_backup_time" type="glide_time"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Connected" max_length="40" name="u_arca_primary_connected" type="string">
+            <choice>
+                <element label="Yes" sequence="0" value="Yes"/>
+                <element label="No" sequence="1" value="No"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Tested" max_length="40" name="u_arca_primary_tested" type="string">
+            <choice>
+                <element label="Yes" sequence="0" value="Yes"/>
+                <element label="No" sequence="1" value="No"/>
+            </choice>
+        </element>
+        <element label="Time" max_length="40" name="u_arca_primary_time" type="glide_time"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Connected" max_length="40" name="u_bats_backup_connected" type="string">
+            <choice>
+                <element label="Yes" sequence="0" value="Yes"/>
+                <element label="No" sequence="1" value="No"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Tested" max_length="40" name="u_bats_backup_tested" type="string">
+            <choice>
+                <element label="Yes" sequence="0" value="Yes"/>
+                <element label="No" sequence="1" value="No"/>
+            </choice>
+        </element>
+        <element label="Time" max_length="40" name="u_bats_backup_time" type="glide_time"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Connected" max_length="40" name="u_bats_primary_connected" type="string">
+            <choice>
+                <element label="Yes" sequence="0" value="Yes"/>
+                <element label="No" sequence="1" value="No"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Tested" max_length="40" name="u_bats_primary_tested" type="string">
+            <choice>
+                <element label="Yes" sequence="0" value="Yes"/>
+                <element label="No" sequence="1" value="No"/>
+            </choice>
+        </element>
+        <element label="Time" max_length="40" name="u_bats_primary_time" type="glide_time"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Connected" max_length="40" name="u_byx_backup_connected" type="string">
+            <choice>
+                <element label="Yes" sequence="0" value="Yes"/>
+                <element label="No" sequence="1" value="No"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Tested" max_length="40" name="u_byx_backup_tested" type="string">
+            <choice>
+                <element label="Yes" sequence="0" value="Yes"/>
+                <element label="No" sequence="1" value="No"/>
+            </choice>
+        </element>
+        <element label="Time" max_length="40" name="u_byx_backup_time" type="glide_time"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Connected" max_length="40" name="u_byx_primary_connected" type="string">
+            <choice>
+                <element label="Yes" sequence="0" value="Yes"/>
+                <element label="No" sequence="1" value="No"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Tested" max_length="40" name="u_byx_primary_tested" type="string">
+            <choice>
+                <element label="Yes" sequence="0" value="Yes"/>
+                <element label="No" sequence="1" value="No"/>
+            </choice>
+        </element>
+        <element label="Time" max_length="40" name="u_byx_primary_time" type="glide_time"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Connected" max_length="40" name="u_cdro_backup_connected" type="string">
+            <choice>
+                <element label="Yes" sequence="0" value="Yes"/>
+                <element label="No" sequence="1" value="No"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Tested" max_length="40" name="u_cdro_backup_tested" type="string">
+            <choice>
+                <element label="Yes" sequence="0" value="Yes"/>
+                <element label="No" sequence="1" value="No"/>
+            </choice>
+        </element>
+        <element label="Time" max_length="40" name="u_cdro_backup_time" type="glide_time"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Connected" max_length="40" name="u_cdro_primary_connected" type="string">
+            <choice>
+                <element label="Yes" sequence="0" value="Yes"/>
+                <element label="No" sequence="1" value="No"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Tested" max_length="40" name="u_cdro_primary_tested" type="string">
+            <choice>
+                <element label="Yes" sequence="0" value="Yes"/>
+                <element label="No" sequence="1" value="No"/>
+            </choice>
+        </element>
+        <element label="Time" max_length="40" name="u_cdro_primary_time" type="glide_time"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Tested" max_length="40" name="u_cfe_primary_tested" type="string">
+            <choice>
+                <element label="Yes" sequence="0" value="Yes"/>
+                <element label="No" sequence="1" value="No"/>
+            </choice>
+        </element>
         <element label="Time" max_length="40" name="u_cfsb_backup_time" type="glide_time"/>
         <element label="Time" max_length="40" name="u_cfsb_primary_time" type="glide_time"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Connected" max_length="40" name="u_cme_backup_connected" type="string">
+            <choice>
+                <element label="Yes" sequence="0" value="Yes"/>
+                <element label="No" sequence="1" value="No"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Tested" max_length="40" name="u_cme_backup_tested" type="string">
+            <choice>
+                <element label="Yes" sequence="0" value="Yes"/>
+                <element label="No" sequence="1" value="No"/>
+            </choice>
+        </element>
+        <element label="Time" max_length="40" name="u_cme_backup_time" type="glide_time"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Connected" max_length="40" name="u_cme_primary_connected" type="string">
+            <choice>
+                <element label="Yes" sequence="0" value="Yes"/>
+                <element label="No" sequence="1" value="No"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Tested" max_length="40" name="u_cme_primary_tested" type="string">
+            <choice>
+                <element label="Yes" sequence="0" value="Yes"/>
+                <element label="No" sequence="1" value="No"/>
+            </choice>
+        </element>
+        <element label="Time" max_length="40" name="u_cme_primary_time" type="glide_time"/>
         <element attributes="edge_encryption_enabled=true" choice="1" default="EAS09" label="CSFB Backup" max_length="40" name="u_csfb_backup" type="string">
             <choice>
                 <element label="EAS09" sequence="0" value="EAS09"/>
@@ -67,6 +229,110 @@
             </choice>
         </element>
         <element label="Time" max_length="40" name="u_csrs_primary_time" type="glide_time"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Connected" max_length="40" name="u_ctdl_backup_connected" type="string">
+            <choice>
+                <element label="Yes" sequence="0" value="Yes"/>
+                <element label="No" sequence="1" value="No"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Tested" max_length="40" name="u_ctdl_backup_tested" type="string">
+            <choice>
+                <element label="Yes" sequence="0" value="Yes"/>
+                <element label="No" sequence="1" value="No"/>
+            </choice>
+        </element>
+        <element label="Time" max_length="40" name="u_ctdl_backup_time" type="glide_time"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Connected" max_length="40" name="u_ctdl_primary_connected" type="string">
+            <choice>
+                <element label="Yes" sequence="0" value="Yes"/>
+                <element label="No" sequence="1" value="No"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Tested" max_length="40" name="u_ctdl_primary_tested" type="string">
+            <choice>
+                <element label="Yes" sequence="0" value="Yes"/>
+                <element label="No" sequence="1" value="No"/>
+            </choice>
+        </element>
+        <element label="Time" max_length="40" name="u_ctdl_primary_time" type="glide_time"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Connected" max_length="40" name="u_dfin_backup_connected" type="string">
+            <choice>
+                <element label="Yes" sequence="0" value="Yes"/>
+                <element label="No" sequence="1" value="No"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Tested" max_length="40" name="u_dfin_backup_tested" type="string">
+            <choice>
+                <element label="Yes" sequence="0" value="Yes"/>
+                <element label="No" sequence="1" value="No"/>
+            </choice>
+        </element>
+        <element label="Time" max_length="40" name="u_dfin_backup_time" type="glide_time"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Connected" max_length="40" name="u_dfin_primary_connected" type="string">
+            <choice>
+                <element label="Yes" sequence="0" value="Yes"/>
+                <element label="No" sequence="1" value="No"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Tested" max_length="40" name="u_dfin_primary_tested" type="string">
+            <choice>
+                <element label="Yes" sequence="0" value="Yes"/>
+                <element label="No" sequence="1" value="No"/>
+            </choice>
+        </element>
+        <element label="Time" max_length="40" name="u_dfin_primary_time" type="glide_time"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Connected" max_length="40" name="u_edga_backup_connected" type="string">
+            <choice>
+                <element label="Yes" sequence="0" value="Yes"/>
+                <element label="No" sequence="1" value="No"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Tested" max_length="40" name="u_edga_backup_tested" type="string">
+            <choice>
+                <element label="Yes" sequence="0" value="Yes"/>
+                <element label="No" sequence="1" value="No"/>
+            </choice>
+        </element>
+        <element label="Time" max_length="40" name="u_edga_backup_time" type="glide_time"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Connected" max_length="40" name="u_edga_primary_connected" type="string">
+            <choice>
+                <element label="Yes" sequence="0" value="Yes"/>
+                <element label="No" sequence="1" value="No"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Tested" max_length="40" name="u_edga_primary_tested" type="string">
+            <choice>
+                <element label="Yes" sequence="0" value="Yes"/>
+                <element label="No" sequence="1" value="No"/>
+            </choice>
+        </element>
+        <element label="Time" max_length="40" name="u_edga_primary_time" type="glide_time"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Connected" max_length="40" name="u_edgx_backup_connected" type="string">
+            <choice>
+                <element label="Yes" sequence="0" value="Yes"/>
+                <element label="No" sequence="1" value="No"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Tested" max_length="40" name="u_edgx_backup_tested" type="string">
+            <choice>
+                <element label="Yes" sequence="0" value="Yes"/>
+                <element label="No" sequence="1" value="No"/>
+            </choice>
+        </element>
+        <element label="Time" max_length="40" name="u_edgx_backup_time" type="glide_time"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Connected" max_length="40" name="u_edgx_primary_connected" type="string">
+            <choice>
+                <element label="Yes" sequence="0" value="Yes"/>
+                <element label="No" sequence="1" value="No"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Tested" max_length="40" name="u_edgx_primary_tested" type="string">
+            <choice>
+                <element label="Yes" sequence="0" value="Yes"/>
+                <element label="No" sequence="1" value="No"/>
+            </choice>
+        </element>
+        <element label="Time" max_length="40" name="u_edgx_primary_time" type="glide_time"/>
         <element attributes="edge_encryption_enabled=true" choice="1" label="Connected" max_length="40" name="u_eurx_backup" type="string">
             <choice>
                 <element label="Yes" sequence="0" value="Yes"/>
@@ -93,6 +359,136 @@
             </choice>
         </element>
         <element label="Time" max_length="40" name="u_eurx_primary_time" type="glide_time"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Connected" max_length="40" name="u_g1x_backup_connected" type="string">
+            <choice>
+                <element label="Yes" sequence="0" value="Yes"/>
+                <element label="No" sequence="1" value="No"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Tested" max_length="40" name="u_g1x_backup_tested" type="string">
+            <choice>
+                <element label="Yes" sequence="0" value="Yes"/>
+                <element label="No" sequence="1" value="No"/>
+            </choice>
+        </element>
+        <element label="Time" max_length="40" name="u_g1x_backup_time" type="glide_time"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Connected" max_length="40" name="u_g1x_primary_connected" type="string">
+            <choice>
+                <element label="Yes" sequence="0" value="Yes"/>
+                <element label="No" sequence="1" value="No"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Tested" max_length="40" name="u_g1x_primary_tested" type="string">
+            <choice>
+                <element label="Yes" sequence="0" value="Yes"/>
+                <element label="No" sequence="1" value="No"/>
+            </choice>
+        </element>
+        <element label="Time" max_length="40" name="u_g1x_primary_time" type="glide_time"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Connected" max_length="40" name="u_iceb_backup_connected" type="string">
+            <choice>
+                <element label="Yes" sequence="0" value="Yes"/>
+                <element label="No" sequence="1" value="No"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Tested" max_length="40" name="u_iceb_backup_tested" type="string">
+            <choice>
+                <element label="Yes" sequence="0" value="Yes"/>
+                <element label="No" sequence="1" value="No"/>
+            </choice>
+        </element>
+        <element label="Time" max_length="40" name="u_iceb_backup_time" type="glide_time"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Connected" max_length="40" name="u_iceb_primary_connected" type="string">
+            <choice>
+                <element label="Yes" sequence="0" value="Yes"/>
+                <element label="No" sequence="1" value="No"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Tested" max_length="40" name="u_iceb_primary_tested" type="string">
+            <choice>
+                <element label="Yes" sequence="0" value="Yes"/>
+                <element label="No" sequence="1" value="No"/>
+            </choice>
+        </element>
+        <element label="Time" max_length="40" name="u_iceb_primary_time" type="glide_time"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Connected" max_length="40" name="u_icee_backup_connected" type="string">
+            <choice>
+                <element label="Yes" sequence="0" value="Yes"/>
+                <element label="No" sequence="1" value="No"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Tested" max_length="40" name="u_icee_backup_tested" type="string">
+            <choice>
+                <element label="Yes" sequence="0" value="Yes"/>
+                <element label="No" sequence="1" value="No"/>
+            </choice>
+        </element>
+        <element label="Time" max_length="40" name="u_icee_backup_time" type="glide_time"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Connected" max_length="40" name="u_icee_primary_connected" type="string">
+            <choice>
+                <element label="Yes" sequence="0" value="Yes"/>
+                <element label="No" sequence="1" value="No"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Tested" max_length="40" name="u_icee_primary_tested" type="string">
+            <choice>
+                <element label="Yes" sequence="0" value="Yes"/>
+                <element label="No" sequence="1" value="No"/>
+            </choice>
+        </element>
+        <element label="Time" max_length="40" name="u_icee_primary_time" type="glide_time"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Connected" max_length="40" name="u_ice_backup_connected" type="string">
+            <choice>
+                <element label="Yes" sequence="0" value="Yes"/>
+                <element label="No" sequence="1" value="No"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Tested" max_length="40" name="u_ice_backup_tested" type="string">
+            <choice>
+                <element label="Yes" sequence="0" value="Yes"/>
+                <element label="No" sequence="1" value="No"/>
+            </choice>
+        </element>
+        <element label="Time" max_length="40" name="u_ice_backup_time" type="glide_time"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Connected" max_length="40" name="u_ice_primary_connected" type="string">
+            <choice>
+                <element label="Yes" sequence="0" value="Yes"/>
+                <element label="No" sequence="1" value="No"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Tested" max_length="40" name="u_ice_primary_tested" type="string">
+            <choice>
+                <element label="Yes" sequence="0" value="Yes"/>
+                <element label="No" sequence="1" value="No"/>
+            </choice>
+        </element>
+        <element label="Time" max_length="40" name="u_ice_primary_time" type="glide_time"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Connected" max_length="40" name="u_iexg_backup_connected" type="string">
+            <choice>
+                <element label="Yes" sequence="0" value="Yes"/>
+                <element label="No" sequence="1" value="No"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Tested" max_length="40" name="u_iexg_backup_tested" type="string">
+            <choice>
+                <element label="Yes" sequence="0" value="Yes"/>
+                <element label="No" sequence="1" value="No"/>
+            </choice>
+        </element>
+        <element label="Time" max_length="40" name="u_iexg_backup_time" type="glide_time"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Connected" max_length="40" name="u_iexg_primary_connected" type="string">
+            <choice>
+                <element label="Yes" sequence="0" value="Yes"/>
+                <element label="No" sequence="1" value="No"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Tested" max_length="40" name="u_iexg_primary_tested" type="string">
+            <choice>
+                <element label="Yes" sequence="0" value="Yes"/>
+                <element label="No" sequence="1" value="No"/>
+            </choice>
+        </element>
+        <element label="Time" max_length="40" name="u_iexg_primary_time" type="glide_time"/>
         <element attributes="edge_encryption_enabled=true" choice="1" label="Connected" max_length="40" name="u_kcg_backup_connected" type="string">
             <choice>
                 <element label="Yes" sequence="0" value="Yes"/>
@@ -119,5 +515,246 @@
             </choice>
         </element>
         <element label="Time" max_length="40" name="u_kcg_primary_time" type="glide_time"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Live Farm" mandatory="true" max_length="40" name="u_live_farm" type="string">
+            <choice>
+                <element label="Chicago (IL04)" sequence="0" value="Chicago (IL04)"/>
+                <element label="New York (NY04)" sequence="1" value="New York (NY04)"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Connected" max_length="40" name="u_msco_backup_connected" type="string">
+            <choice>
+                <element label="Yes" sequence="0" value="Yes"/>
+                <element label="No" sequence="1" value="No"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Tested" max_length="40" name="u_msco_backup_tested" type="string">
+            <choice>
+                <element label="Choice 1" sequence="0" value="Choice 1"/>
+                <element label="Choice 2" sequence="1" value="Choice 2"/>
+                <element label="Choice 3" sequence="2" value="Choice 3"/>
+            </choice>
+        </element>
+        <element label="Time" max_length="40" name="u_msco_backup_time" type="glide_time"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Connected" max_length="40" name="u_msco_primary_connected" type="string">
+            <choice>
+                <element label="Yes" sequence="0" value="Yes"/>
+                <element label="No" sequence="1" value="No"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Tested" max_length="40" name="u_msco_primary_tested" type="string">
+            <choice>
+                <element label="Yes" sequence="0" value="Yes"/>
+                <element label="No" sequence="1" value="No"/>
+            </choice>
+        </element>
+        <element label="Time" max_length="40" name="u_msco_primary_time" type="glide_time"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Connected" max_length="40" name="u_nite_backup_connected" type="string">
+            <choice>
+                <element label="Yes" sequence="0" value="Yes"/>
+                <element label="No" sequence="1" value="No"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Tested" max_length="40" name="u_nite_backup_tested" type="string">
+            <choice>
+                <element label="Yes" sequence="0" value="Yes"/>
+                <element label="No" sequence="1" value="No"/>
+            </choice>
+        </element>
+        <element label="Time" max_length="40" name="u_nite_backup_time" type="glide_time"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Connected" max_length="40" name="u_nite_primary_connected" type="string">
+            <choice>
+                <element label="Yes" sequence="0" value="Yes"/>
+                <element label="No" sequence="1" value="No"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Tested" max_length="40" name="u_nite_primary_tested" type="string">
+            <choice>
+                <element label="Yes" sequence="0" value="Yes"/>
+                <element label="No" sequence="1" value="No"/>
+            </choice>
+        </element>
+        <element label="Time" max_length="40" name="u_nite_primary_time" type="glide_time"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Connected" max_length="40" name="u_nqbx_backup_connected" type="string">
+            <choice>
+                <element label="Yes" sequence="0" value="Yes"/>
+                <element label="No" sequence="1" value="No"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Tested" max_length="40" name="u_nqbx_backup_tested" type="string">
+            <choice>
+                <element label="Yes" sequence="0" value="Yes"/>
+                <element label="No" sequence="1" value="No"/>
+            </choice>
+        </element>
+        <element label="Time" max_length="40" name="u_nqbx_backup_time" type="glide_time"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Connected" max_length="40" name="u_nqbx_primary_connected" type="string">
+            <choice>
+                <element label="Yes" sequence="0" value="Yes"/>
+                <element label="No" sequence="1" value="No"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Tested" max_length="40" name="u_nqbx_primary_tested" type="string">
+            <choice>
+                <element label="Yes" sequence="0" value="Yes"/>
+                <element label="No" sequence="1" value="No"/>
+            </choice>
+        </element>
+        <element label="Time" max_length="40" name="u_nqbx_primary_time" type="glide_time"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Connected" max_length="40" name="u_nsbq_backup_connected" type="string">
+            <choice>
+                <element label="Yes" sequence="0" value="Yes"/>
+                <element label="No" sequence="1" value="No"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Tested" max_length="40" name="u_nsbq_backup_tested" type="string">
+            <choice>
+                <element label="Yes" sequence="0" value="Yes"/>
+                <element label="No" sequence="1" value="No"/>
+            </choice>
+        </element>
+        <element label="Time" max_length="40" name="u_nsbq_backup_time" type="glide_time"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Connected" max_length="40" name="u_nsbq_primary_connected" type="string">
+            <choice>
+                <element label="Yes" sequence="0" value="Yes"/>
+                <element label="No" sequence="1" value="No"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Tested" max_length="40" name="u_nsbq_primary_tested" type="string">
+            <choice>
+                <element label="Yes" sequence="0" value="Yes"/>
+                <element label="No" sequence="1" value="No"/>
+            </choice>
+        </element>
+        <element label="Time" max_length="40" name="u_nsbq_primary_time" type="glide_time"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Connected" max_length="40" name="u_nyse_backup_connected" type="string">
+            <choice>
+                <element label="Yes" sequence="0" value="Yes"/>
+                <element label="No" sequence="1" value="No"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Tested" max_length="40" name="u_nyse_backup_tested" type="string">
+            <choice>
+                <element label="Yes" sequence="0" value="Yes"/>
+                <element label="No" sequence="1" value="No"/>
+            </choice>
+        </element>
+        <element label="Time" max_length="40" name="u_nyse_backup_time" type="glide_time"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Connected" max_length="40" name="u_nyse_primary_connected" type="string">
+            <choice>
+                <element label="Yes" sequence="0" value="Yes"/>
+                <element label="No" sequence="1" value="No"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Tested" max_length="40" name="u_nyse_primary_tested" type="string">
+            <choice>
+                <element label="Yes" sequence="0" value="Yes"/>
+                <element label="No" sequence="1" value="No"/>
+            </choice>
+        </element>
+        <element label="Time" max_length="40" name="u_nyse_primary_time" type="glide_time"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Connected" max_length="40" name="u_sig_backup_connected" type="string">
+            <choice>
+                <element label="Yes" sequence="0" value="Yes"/>
+                <element label="No" sequence="1" value="No"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Tested" max_length="40" name="u_sig_backup_tested" type="string">
+            <choice>
+                <element label="Yes" sequence="0" value="Yes"/>
+                <element label="No" sequence="1" value="No"/>
+            </choice>
+        </element>
+        <element label="Time" max_length="40" name="u_sig_backup_time" type="glide_time"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Connected" max_length="40" name="u_sig_primary_connected" type="string">
+            <choice>
+                <element label="Yes" sequence="0" value="Yes"/>
+                <element label="No" sequence="1" value="No"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Tested" max_length="40" name="u_sig_primary_tested" type="string">
+            <choice>
+                <element label="Yes" sequence="0" value="Yes"/>
+                <element label="No" sequence="1" value="No"/>
+            </choice>
+        </element>
+        <element label="Time" max_length="40" name="u_sig_primary_time" type="glide_time"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Connected" max_length="40" name="u_soho_backup_connected" type="string">
+            <choice>
+                <element label="Yes" sequence="0" value="Yes"/>
+                <element label="No" sequence="1" value="No"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Tested" max_length="40" name="u_soho_backup_tested" type="string">
+            <choice>
+                <element label="Yes" sequence="0" value="Yes"/>
+                <element label="No" sequence="1" value="No"/>
+            </choice>
+        </element>
+        <element label="Time" max_length="40" name="u_soho_backup_time" type="glide_time"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Connected" max_length="40" name="u_soho_primary_connected" type="string">
+            <choice>
+                <element label="Yes" sequence="0" value="Yes"/>
+                <element label="No" sequence="1" value="No"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Tested" max_length="40" name="u_soho_primary_tested" type="string">
+            <choice>
+                <element label="Yes" sequence="0" value="Yes"/>
+                <element label="No" sequence="1" value="No"/>
+            </choice>
+        </element>
+        <element label="Time" max_length="40" name="u_soho_primary_time" type="glide_time"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Connected" max_length="40" name="u_wex2_backup_connected" type="string">
+            <choice>
+                <element label="Yes" sequence="0" value="Yes"/>
+                <element label="No" sequence="1" value="No"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Tested" max_length="40" name="u_wex2_backup_tested" type="string">
+            <choice>
+                <element label="Yes" sequence="0" value="Yes"/>
+                <element label="No" sequence="1" value="No"/>
+            </choice>
+        </element>
+        <element label="Time" max_length="40" name="u_wex2_backup_time" type="glide_time"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Connected" max_length="40" name="u_wex2_primary_connected" type="string">
+            <choice>
+                <element label="Yes" sequence="0" value="Yes"/>
+                <element label="No" sequence="1" value="No"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Tested" max_length="40" name="u_wex2_primary_tested" type="string">
+            <choice>
+                <element label="Yes" sequence="0" value="Yes"/>
+                <element label="No" sequence="1" value="No"/>
+            </choice>
+        </element>
+        <element label="Time" max_length="40" name="u_wex2_primary_time" type="glide_time"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Connected" max_length="40" name="u_wex_backup_connected" type="string">
+            <choice>
+                <element label="Yes" sequence="0" value="Yes"/>
+                <element label="No" sequence="1" value="No"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Tested" max_length="40" name="u_wex_backup_tested" type="string">
+            <choice>
+                <element label="Yes" sequence="0" value="Yes"/>
+                <element label="No" sequence="1" value="No"/>
+            </choice>
+        </element>
+        <element label="Time" max_length="40" name="u_wex_backup_time" type="glide_time"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Connected" max_length="40" name="u_wex_primary_connected" type="string">
+            <choice>
+                <element label="Yes" sequence="0" value="Yes"/>
+                <element label="No" sequence="1" value="No"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Tested" max_length="40" name="u_wex_primary_tested" type="string">
+            <choice>
+                <element label="Yes" sequence="0" value="Yes"/>
+                <element label="No" sequence="1" value="No"/>
+            </choice>
+        </element>
+        <element label="Time" max_length="40" name="u_wex_primary_time" type="glide_time"/>
     </element>
 </database>
