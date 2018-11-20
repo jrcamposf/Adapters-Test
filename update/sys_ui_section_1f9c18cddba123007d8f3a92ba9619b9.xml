@@ -4,160 +4,204 @@
         <sys_ui_annotation action="INSERT_OR_UPDATE">
             <is_plain_text>false</is_plain_text>
             <sys_created_by>jcampos-admin</sys_created_by>
-            <sys_created_on>2018-11-01 17:35:33</sys_created_on>
-            <sys_id>a82e59cddb2523007d8f3a92ba96190c</sys_id>
+            <sys_created_on>2018-11-08 17:45:24</sys_created_on>
+            <sys_id>91836ddbdb25e3007d8f3a92ba961950</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>jcampos-admin</sys_updated_by>
-            <sys_updated_on>2018-11-01 17:35:33</sys_updated_on>
-            <text>PRIMARY=EAS02</text>
-            <type display_value="Info Box Red">823f88a80f930000b12e6903cfe01209</type>
-        </sys_ui_annotation>
-        <sys_ui_annotation action="INSERT_OR_UPDATE">
-            <is_plain_text>false</is_plain_text>
-            <sys_created_by>jcampos-admin</sys_created_by>
-            <sys_created_on>2018-11-01 17:35:33</sys_created_on>
-            <sys_id>ac2e59cddb2523007d8f3a92ba96190c</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>jcampos-admin</sys_updated_by>
-            <sys_updated_on>2018-11-01 17:35:33</sys_updated_on>
+            <sys_updated_on>2018-11-08 17:45:24</sys_updated_on>
             <text>Was CSFB tested on the PRIMARY adapter in the backup farm?</text>
             <type display_value="Section Details">19756e5ec3313000bac1addbdfba8f18</type>
         </sys_ui_annotation>
         <sys_ui_annotation action="INSERT_OR_UPDATE">
             <is_plain_text>false</is_plain_text>
             <sys_created_by>jcampos-admin</sys_created_by>
-            <sys_created_on>2018-11-01 17:35:33</sys_created_on>
-            <sys_id>a02e59cddb2523007d8f3a92ba96190d</sys_id>
+            <sys_created_on>2018-11-08 17:45:24</sys_created_on>
+            <sys_id>95836ddbdb25e3007d8f3a92ba961950</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>jcampos-admin</sys_updated_by>
-            <sys_updated_on>2018-11-01 17:35:33</sys_updated_on>
-            <text>PRIMARY=EAS05</text>
+            <sys_updated_on>2018-11-08 17:45:24</sys_updated_on>
+            <text>PRIMARY=EAS02</text>
             <type display_value="Info Box Red">823f88a80f930000b12e6903cfe01209</type>
         </sys_ui_annotation>
         <sys_ui_annotation action="INSERT_OR_UPDATE">
             <is_plain_text>false</is_plain_text>
             <sys_created_by>jcampos-admin</sys_created_by>
-            <sys_created_on>2018-11-01 17:35:33</sys_created_on>
-            <sys_id>a42e59cddb2523007d8f3a92ba96190d</sys_id>
+            <sys_created_on>2018-11-08 17:45:24</sys_created_on>
+            <sys_id>99836ddbdb25e3007d8f3a92ba961950</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>jcampos-admin</sys_updated_by>
-            <sys_updated_on>2018-11-01 17:35:33</sys_updated_on>
+            <sys_updated_on>2018-11-08 17:45:24</sys_updated_on>
             <text>Was KCG tested on the PRIMARY adapter in the backup farm?</text>
             <type display_value="Section Details">19756e5ec3313000bac1addbdfba8f18</type>
         </sys_ui_annotation>
         <sys_ui_annotation action="INSERT_OR_UPDATE">
             <is_plain_text>false</is_plain_text>
             <sys_created_by>jcampos-admin</sys_created_by>
-            <sys_created_on>2018-11-01 17:35:33</sys_created_on>
-            <sys_id>a82e59cddb2523007d8f3a92ba96190d</sys_id>
+            <sys_created_on>2018-11-08 17:45:24</sys_created_on>
+            <sys_id>9d836ddbdb25e3007d8f3a92ba961950</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>jcampos-admin</sys_updated_by>
-            <sys_updated_on>2018-11-01 17:35:33</sys_updated_on>
-            <text>PRIMARY=EAS08</text>
+            <sys_updated_on>2018-11-08 17:45:24</sys_updated_on>
+            <text>PRIMARY=EAS05</text>
             <type display_value="Info Box Red">823f88a80f930000b12e6903cfe01209</type>
         </sys_ui_annotation>
         <sys_ui_annotation action="INSERT_OR_UPDATE">
             <is_plain_text>false</is_plain_text>
             <sys_created_by>jcampos-admin</sys_created_by>
-            <sys_created_on>2018-11-01 17:35:33</sys_created_on>
-            <sys_id>ac2e59cddb2523007d8f3a92ba96190d</sys_id>
+            <sys_created_on>2018-11-08 17:45:24</sys_created_on>
+            <sys_id>91836ddbdb25e3007d8f3a92ba961951</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>jcampos-admin</sys_updated_by>
-            <sys_updated_on>2018-11-01 17:35:33</sys_updated_on>
+            <sys_updated_on>2018-11-08 17:45:24</sys_updated_on>
             <text>Was CSRS tested on the PRIMARY adapter in the backup farm?</text>
             <type display_value="Section Details">19756e5ec3313000bac1addbdfba8f18</type>
         </sys_ui_annotation>
         <sys_ui_annotation action="INSERT_OR_UPDATE">
             <is_plain_text>false</is_plain_text>
             <sys_created_by>jcampos-admin</sys_created_by>
-            <sys_created_on>2018-11-01 17:35:33</sys_created_on>
-            <sys_id>a02e59cddb2523007d8f3a92ba96190e</sys_id>
+            <sys_created_on>2018-11-08 17:45:24</sys_created_on>
+            <sys_id>95836ddbdb25e3007d8f3a92ba961951</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>jcampos-admin</sys_updated_by>
-            <sys_updated_on>2018-11-01 17:35:33</sys_updated_on>
-            <text>BACKUP=EAS09</text>
+            <sys_updated_on>2018-11-08 17:45:24</sys_updated_on>
+            <text>PRIMARY=EAS08</text>
             <type display_value="Info Box Red">823f88a80f930000b12e6903cfe01209</type>
         </sys_ui_annotation>
         <sys_ui_annotation action="INSERT_OR_UPDATE">
             <is_plain_text>false</is_plain_text>
             <sys_created_by>jcampos-admin</sys_created_by>
-            <sys_created_on>2018-11-01 17:35:33</sys_created_on>
-            <sys_id>a42e59cddb2523007d8f3a92ba96190e</sys_id>
+            <sys_created_on>2018-11-08 17:45:24</sys_created_on>
+            <sys_id>99836ddbdb25e3007d8f3a92ba961951</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>jcampos-admin</sys_updated_by>
-            <sys_updated_on>2018-11-01 17:35:33</sys_updated_on>
+            <sys_updated_on>2018-11-08 17:45:24</sys_updated_on>
+            <text>Was SOHO tested on the PRIMARY adapter in the backup farm?</text>
+            <type display_value="Section Details">19756e5ec3313000bac1addbdfba8f18</type>
+        </sys_ui_annotation>
+        <sys_ui_annotation action="INSERT_OR_UPDATE">
+            <is_plain_text>false</is_plain_text>
+            <sys_created_by>jcampos-admin</sys_created_by>
+            <sys_created_on>2018-11-08 17:45:24</sys_created_on>
+            <sys_id>9d836ddbdb25e3007d8f3a92ba961951</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>jcampos-admin</sys_updated_by>
+            <sys_updated_on>2018-11-08 17:45:24</sys_updated_on>
+            <text>PRIMARY=EAS13</text>
+            <type display_value="Info Box Red">823f88a80f930000b12e6903cfe01209</type>
+        </sys_ui_annotation>
+        <sys_ui_annotation action="INSERT_OR_UPDATE">
+            <is_plain_text>false</is_plain_text>
+            <sys_created_by>jcampos-admin</sys_created_by>
+            <sys_created_on>2018-11-08 17:45:24</sys_created_on>
+            <sys_id>91836ddbdb25e3007d8f3a92ba961952</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>jcampos-admin</sys_updated_by>
+            <sys_updated_on>2018-11-08 17:45:24</sys_updated_on>
             <text>Was CSFB tested on the BACKUP adapter in the backup farm?</text>
             <type display_value="Section Details">19756e5ec3313000bac1addbdfba8f18</type>
         </sys_ui_annotation>
         <sys_ui_annotation action="INSERT_OR_UPDATE">
             <is_plain_text>false</is_plain_text>
             <sys_created_by>jcampos-admin</sys_created_by>
-            <sys_created_on>2018-11-01 17:35:33</sys_created_on>
-            <sys_id>a82e59cddb2523007d8f3a92ba96190e</sys_id>
+            <sys_created_on>2018-11-08 17:45:24</sys_created_on>
+            <sys_id>95836ddbdb25e3007d8f3a92ba961952</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>jcampos-admin</sys_updated_by>
-            <sys_updated_on>2018-11-01 17:35:33</sys_updated_on>
-            <text>BACKUP=EAS10</text>
+            <sys_updated_on>2018-11-08 17:45:24</sys_updated_on>
+            <text>BACKUP=EAS09</text>
             <type display_value="Info Box Red">823f88a80f930000b12e6903cfe01209</type>
         </sys_ui_annotation>
         <sys_ui_annotation action="INSERT_OR_UPDATE">
             <is_plain_text>false</is_plain_text>
             <sys_created_by>jcampos-admin</sys_created_by>
-            <sys_created_on>2018-11-01 17:35:33</sys_created_on>
-            <sys_id>ac2e59cddb2523007d8f3a92ba96190e</sys_id>
+            <sys_created_on>2018-11-08 17:45:24</sys_created_on>
+            <sys_id>99836ddbdb25e3007d8f3a92ba961952</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>jcampos-admin</sys_updated_by>
-            <sys_updated_on>2018-11-01 17:35:33</sys_updated_on>
+            <sys_updated_on>2018-11-08 17:45:24</sys_updated_on>
             <text>Was KCG tested on the BACKUP adapter in the backup farm?</text>
             <type display_value="Section Details">19756e5ec3313000bac1addbdfba8f18</type>
         </sys_ui_annotation>
         <sys_ui_annotation action="INSERT_OR_UPDATE">
             <is_plain_text>false</is_plain_text>
             <sys_created_by>jcampos-admin</sys_created_by>
-            <sys_created_on>2018-11-01 17:35:33</sys_created_on>
-            <sys_id>a02e59cddb2523007d8f3a92ba96190f</sys_id>
+            <sys_created_on>2018-11-08 17:45:24</sys_created_on>
+            <sys_id>9d836ddbdb25e3007d8f3a92ba961952</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>jcampos-admin</sys_updated_by>
-            <sys_updated_on>2018-11-01 17:35:33</sys_updated_on>
+            <sys_updated_on>2018-11-08 17:45:24</sys_updated_on>
+            <text>BACKUP=EAS10</text>
+            <type display_value="Info Box Red">823f88a80f930000b12e6903cfe01209</type>
+        </sys_ui_annotation>
+        <sys_ui_annotation action="INSERT_OR_UPDATE">
+            <is_plain_text>false</is_plain_text>
+            <sys_created_by>jcampos-admin</sys_created_by>
+            <sys_created_on>2018-11-08 17:45:24</sys_created_on>
+            <sys_id>91836ddbdb25e3007d8f3a92ba961953</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>jcampos-admin</sys_updated_by>
+            <sys_updated_on>2018-11-08 17:45:24</sys_updated_on>
+            <text>Was CSRS tested on the BACKUP adapter in the backup farm?</text>
+            <type display_value="Section Details">19756e5ec3313000bac1addbdfba8f18</type>
+        </sys_ui_annotation>
+        <sys_ui_annotation action="INSERT_OR_UPDATE">
+            <is_plain_text>false</is_plain_text>
+            <sys_created_by>jcampos-admin</sys_created_by>
+            <sys_created_on>2018-11-08 17:45:24</sys_created_on>
+            <sys_id>95836ddbdb25e3007d8f3a92ba961953</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>jcampos-admin</sys_updated_by>
+            <sys_updated_on>2018-11-08 17:45:24</sys_updated_on>
             <text>BACKUP=EAS03</text>
             <type display_value="Info Box Red">823f88a80f930000b12e6903cfe01209</type>
         </sys_ui_annotation>
         <sys_ui_annotation action="INSERT_OR_UPDATE">
             <is_plain_text>false</is_plain_text>
             <sys_created_by>jcampos-admin</sys_created_by>
-            <sys_created_on>2018-11-01 17:35:33</sys_created_on>
-            <sys_id>a42e59cddb2523007d8f3a92ba96190f</sys_id>
+            <sys_created_on>2018-11-08 17:45:24</sys_created_on>
+            <sys_id>99836ddbdb25e3007d8f3a92ba961953</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>jcampos-admin</sys_updated_by>
-            <sys_updated_on>2018-11-01 17:35:33</sys_updated_on>
-            <text>Was CSRS tested on the BACKUP adapter in the backup farm?</text>
+            <sys_updated_on>2018-11-08 17:45:24</sys_updated_on>
+            <text>Was SOHO tested on the BACKUP adapter in the backup farm?</text>
             <type display_value="Section Details">19756e5ec3313000bac1addbdfba8f18</type>
         </sys_ui_annotation>
+        <sys_ui_annotation action="INSERT_OR_UPDATE">
+            <is_plain_text>false</is_plain_text>
+            <sys_created_by>jcampos-admin</sys_created_by>
+            <sys_created_on>2018-11-08 17:45:24</sys_created_on>
+            <sys_id>9d836ddbdb25e3007d8f3a92ba961953</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>jcampos-admin</sys_updated_by>
+            <sys_updated_on>2018-11-08 17:45:24</sys_updated_on>
+            <text>BACKUP=EAS06</text>
+            <type display_value="Info Box Red">823f88a80f930000b12e6903cfe01209</type>
+        </sys_ui_annotation>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>a82e59cddb2523007d8f3a92ba96190c</element>
+            <element>91836ddbdb25e3007d8f3a92ba961950</element>
             <position>0</position>
             <sys_created_by>jcampos-admin</sys_created_by>
-            <sys_created_on>2018-11-01 17:35:33</sys_created_on>
-            <sys_id>682e59cddb2523007d8f3a92ba96190f</sys_id>
+            <sys_created_on>2018-11-08 17:45:24</sys_created_on>
+            <sys_id>51836ddbdb25e3007d8f3a92ba961954</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Testing to be started at 4:30 PM" display_value="Testing to be started at 4:30 PM" name="x_trg_friday_night_adapter_testing_table" sys_domain="global" view="Default view">1f9c18cddba123007d8f3a92ba9619b9</sys_ui_section>
             <sys_updated_by>jcampos-admin</sys_updated_by>
-            <sys_updated_on>2018-11-01 17:35:33</sys_updated_on>
+            <sys_updated_on>2018-11-08 17:45:24</sys_updated_on>
             <sys_user/>
             <type>annotation</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>ac2e59cddb2523007d8f3a92ba96190c</element>
+            <element>95836ddbdb25e3007d8f3a92ba961950</element>
             <position>1</position>
             <sys_created_by>jcampos-admin</sys_created_by>
-            <sys_created_on>2018-11-01 17:35:33</sys_created_on>
-            <sys_id>e82e59cddb2523007d8f3a92ba96190f</sys_id>
+            <sys_created_on>2018-11-08 17:45:24</sys_created_on>
+            <sys_id>d1836ddbdb25e3007d8f3a92ba961954</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Testing to be started at 4:30 PM" display_value="Testing to be started at 4:30 PM" name="x_trg_friday_night_adapter_testing_table" sys_domain="global" view="Default view">1f9c18cddba123007d8f3a92ba9619b9</sys_ui_section>
             <sys_updated_by>jcampos-admin</sys_updated_by>
-            <sys_updated_on>2018-11-01 17:35:33</sys_updated_on>
+            <sys_updated_on>2018-11-08 17:45:24</sys_updated_on>
             <sys_user/>
             <type>annotation</type>
         </sys_ui_element>
@@ -165,13 +209,13 @@
             <element>u_csfb_primary_tested</element>
             <position>2</position>
             <sys_created_by>jcampos-admin</sys_created_by>
-            <sys_created_on>2018-11-01 17:35:33</sys_created_on>
-            <sys_id>6c2e59cddb2523007d8f3a92ba96190f</sys_id>
+            <sys_created_on>2018-11-08 17:45:24</sys_created_on>
+            <sys_id>55836ddbdb25e3007d8f3a92ba961954</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Testing to be started at 4:30 PM" display_value="Testing to be started at 4:30 PM" name="x_trg_friday_night_adapter_testing_table" sys_domain="global" view="Default view">1f9c18cddba123007d8f3a92ba9619b9</sys_ui_section>
             <sys_updated_by>jcampos-admin</sys_updated_by>
-            <sys_updated_on>2018-11-01 17:35:33</sys_updated_on>
+            <sys_updated_on>2018-11-08 17:45:24</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -179,13 +223,13 @@
             <element>u_csfb_primary_connected</element>
             <position>3</position>
             <sys_created_by>jcampos-admin</sys_created_by>
-            <sys_created_on>2018-11-01 17:35:33</sys_created_on>
-            <sys_id>ec2e59cddb2523007d8f3a92ba96190f</sys_id>
+            <sys_created_on>2018-11-08 17:45:24</sys_created_on>
+            <sys_id>d5836ddbdb25e3007d8f3a92ba961954</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Testing to be started at 4:30 PM" display_value="Testing to be started at 4:30 PM" name="x_trg_friday_night_adapter_testing_table" sys_domain="global" view="Default view">1f9c18cddba123007d8f3a92ba9619b9</sys_ui_section>
             <sys_updated_by>jcampos-admin</sys_updated_by>
-            <sys_updated_on>2018-11-01 17:35:33</sys_updated_on>
+            <sys_updated_on>2018-11-08 17:45:24</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -193,41 +237,41 @@
             <element>u_cfsb_primary_time</element>
             <position>4</position>
             <sys_created_by>jcampos-admin</sys_created_by>
-            <sys_created_on>2018-11-01 17:35:33</sys_created_on>
-            <sys_id>602e59cddb2523007d8f3a92ba961910</sys_id>
+            <sys_created_on>2018-11-08 17:45:24</sys_created_on>
+            <sys_id>59836ddbdb25e3007d8f3a92ba961954</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Testing to be started at 4:30 PM" display_value="Testing to be started at 4:30 PM" name="x_trg_friday_night_adapter_testing_table" sys_domain="global" view="Default view">1f9c18cddba123007d8f3a92ba9619b9</sys_ui_section>
             <sys_updated_by>jcampos-admin</sys_updated_by>
-            <sys_updated_on>2018-11-01 17:35:33</sys_updated_on>
+            <sys_updated_on>2018-11-08 17:45:24</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>a02e59cddb2523007d8f3a92ba96190d</element>
+            <element>99836ddbdb25e3007d8f3a92ba961950</element>
             <position>5</position>
             <sys_created_by>jcampos-admin</sys_created_by>
-            <sys_created_on>2018-11-01 17:35:33</sys_created_on>
-            <sys_id>e02e59cddb2523007d8f3a92ba961910</sys_id>
+            <sys_created_on>2018-11-08 17:45:24</sys_created_on>
+            <sys_id>d9836ddbdb25e3007d8f3a92ba961954</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Testing to be started at 4:30 PM" display_value="Testing to be started at 4:30 PM" name="x_trg_friday_night_adapter_testing_table" sys_domain="global" view="Default view">1f9c18cddba123007d8f3a92ba9619b9</sys_ui_section>
             <sys_updated_by>jcampos-admin</sys_updated_by>
-            <sys_updated_on>2018-11-01 17:35:33</sys_updated_on>
+            <sys_updated_on>2018-11-08 17:45:24</sys_updated_on>
             <sys_user/>
             <type>annotation</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>a42e59cddb2523007d8f3a92ba96190d</element>
+            <element>9d836ddbdb25e3007d8f3a92ba961950</element>
             <position>6</position>
             <sys_created_by>jcampos-admin</sys_created_by>
-            <sys_created_on>2018-11-01 17:35:33</sys_created_on>
-            <sys_id>642e59cddb2523007d8f3a92ba961910</sys_id>
+            <sys_created_on>2018-11-08 17:45:24</sys_created_on>
+            <sys_id>5d836ddbdb25e3007d8f3a92ba961954</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Testing to be started at 4:30 PM" display_value="Testing to be started at 4:30 PM" name="x_trg_friday_night_adapter_testing_table" sys_domain="global" view="Default view">1f9c18cddba123007d8f3a92ba9619b9</sys_ui_section>
             <sys_updated_by>jcampos-admin</sys_updated_by>
-            <sys_updated_on>2018-11-01 17:35:33</sys_updated_on>
+            <sys_updated_on>2018-11-08 17:45:24</sys_updated_on>
             <sys_user/>
             <type>annotation</type>
         </sys_ui_element>
@@ -235,13 +279,13 @@
             <element>u_kcg_primary_tested</element>
             <position>7</position>
             <sys_created_by>jcampos-admin</sys_created_by>
-            <sys_created_on>2018-11-01 17:35:33</sys_created_on>
-            <sys_id>e42e59cddb2523007d8f3a92ba961910</sys_id>
+            <sys_created_on>2018-11-08 17:45:24</sys_created_on>
+            <sys_id>dd836ddbdb25e3007d8f3a92ba961954</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Testing to be started at 4:30 PM" display_value="Testing to be started at 4:30 PM" name="x_trg_friday_night_adapter_testing_table" sys_domain="global" view="Default view">1f9c18cddba123007d8f3a92ba9619b9</sys_ui_section>
             <sys_updated_by>jcampos-admin</sys_updated_by>
-            <sys_updated_on>2018-11-01 17:35:33</sys_updated_on>
+            <sys_updated_on>2018-11-08 17:45:24</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -249,13 +293,13 @@
             <element>u_kcg_primary_connected</element>
             <position>8</position>
             <sys_created_by>jcampos-admin</sys_created_by>
-            <sys_created_on>2018-11-01 17:35:33</sys_created_on>
-            <sys_id>682e59cddb2523007d8f3a92ba961910</sys_id>
+            <sys_created_on>2018-11-08 17:45:24</sys_created_on>
+            <sys_id>51836ddbdb25e3007d8f3a92ba961955</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Testing to be started at 4:30 PM" display_value="Testing to be started at 4:30 PM" name="x_trg_friday_night_adapter_testing_table" sys_domain="global" view="Default view">1f9c18cddba123007d8f3a92ba9619b9</sys_ui_section>
             <sys_updated_by>jcampos-admin</sys_updated_by>
-            <sys_updated_on>2018-11-01 17:35:33</sys_updated_on>
+            <sys_updated_on>2018-11-08 17:45:24</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -263,41 +307,41 @@
             <element>u_kcg_primary_time</element>
             <position>9</position>
             <sys_created_by>jcampos-admin</sys_created_by>
-            <sys_created_on>2018-11-01 17:35:33</sys_created_on>
-            <sys_id>e82e59cddb2523007d8f3a92ba961910</sys_id>
+            <sys_created_on>2018-11-08 17:45:24</sys_created_on>
+            <sys_id>d1836ddbdb25e3007d8f3a92ba961955</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Testing to be started at 4:30 PM" display_value="Testing to be started at 4:30 PM" name="x_trg_friday_night_adapter_testing_table" sys_domain="global" view="Default view">1f9c18cddba123007d8f3a92ba9619b9</sys_ui_section>
             <sys_updated_by>jcampos-admin</sys_updated_by>
-            <sys_updated_on>2018-11-01 17:35:33</sys_updated_on>
+            <sys_updated_on>2018-11-08 17:45:24</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>a82e59cddb2523007d8f3a92ba96190d</element>
+            <element>91836ddbdb25e3007d8f3a92ba961951</element>
             <position>10</position>
             <sys_created_by>jcampos-admin</sys_created_by>
-            <sys_created_on>2018-11-01 17:35:33</sys_created_on>
-            <sys_id>6c2e59cddb2523007d8f3a92ba961910</sys_id>
+            <sys_created_on>2018-11-08 17:45:24</sys_created_on>
+            <sys_id>55836ddbdb25e3007d8f3a92ba961955</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Testing to be started at 4:30 PM" display_value="Testing to be started at 4:30 PM" name="x_trg_friday_night_adapter_testing_table" sys_domain="global" view="Default view">1f9c18cddba123007d8f3a92ba9619b9</sys_ui_section>
             <sys_updated_by>jcampos-admin</sys_updated_by>
-            <sys_updated_on>2018-11-01 17:35:33</sys_updated_on>
+            <sys_updated_on>2018-11-08 17:45:24</sys_updated_on>
             <sys_user/>
             <type>annotation</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>ac2e59cddb2523007d8f3a92ba96190d</element>
+            <element>95836ddbdb25e3007d8f3a92ba961951</element>
             <position>11</position>
             <sys_created_by>jcampos-admin</sys_created_by>
-            <sys_created_on>2018-11-01 17:35:33</sys_created_on>
-            <sys_id>ec2e59cddb2523007d8f3a92ba961910</sys_id>
+            <sys_created_on>2018-11-08 17:45:24</sys_created_on>
+            <sys_id>d5836ddbdb25e3007d8f3a92ba961955</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Testing to be started at 4:30 PM" display_value="Testing to be started at 4:30 PM" name="x_trg_friday_night_adapter_testing_table" sys_domain="global" view="Default view">1f9c18cddba123007d8f3a92ba9619b9</sys_ui_section>
             <sys_updated_by>jcampos-admin</sys_updated_by>
-            <sys_updated_on>2018-11-01 17:35:33</sys_updated_on>
+            <sys_updated_on>2018-11-08 17:45:24</sys_updated_on>
             <sys_user/>
             <type>annotation</type>
         </sys_ui_element>
@@ -305,13 +349,13 @@
             <element>u_csrs_primary_tested</element>
             <position>12</position>
             <sys_created_by>jcampos-admin</sys_created_by>
-            <sys_created_on>2018-11-01 17:35:33</sys_created_on>
-            <sys_id>602e59cddb2523007d8f3a92ba961911</sys_id>
+            <sys_created_on>2018-11-08 17:45:24</sys_created_on>
+            <sys_id>59836ddbdb25e3007d8f3a92ba961955</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Testing to be started at 4:30 PM" display_value="Testing to be started at 4:30 PM" name="x_trg_friday_night_adapter_testing_table" sys_domain="global" view="Default view">1f9c18cddba123007d8f3a92ba9619b9</sys_ui_section>
             <sys_updated_by>jcampos-admin</sys_updated_by>
-            <sys_updated_on>2018-11-01 17:35:33</sys_updated_on>
+            <sys_updated_on>2018-11-08 17:45:24</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -319,13 +363,13 @@
             <element>u_csrs_connected_tested</element>
             <position>13</position>
             <sys_created_by>jcampos-admin</sys_created_by>
-            <sys_created_on>2018-11-01 17:35:33</sys_created_on>
-            <sys_id>e02e59cddb2523007d8f3a92ba961911</sys_id>
+            <sys_created_on>2018-11-08 17:45:24</sys_created_on>
+            <sys_id>d9836ddbdb25e3007d8f3a92ba961955</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Testing to be started at 4:30 PM" display_value="Testing to be started at 4:30 PM" name="x_trg_friday_night_adapter_testing_table" sys_domain="global" view="Default view">1f9c18cddba123007d8f3a92ba9619b9</sys_ui_section>
             <sys_updated_by>jcampos-admin</sys_updated_by>
-            <sys_updated_on>2018-11-01 17:35:33</sys_updated_on>
+            <sys_updated_on>2018-11-08 17:45:24</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -333,237 +377,377 @@
             <element>u_csrs_primary_time</element>
             <position>14</position>
             <sys_created_by>jcampos-admin</sys_created_by>
-            <sys_created_on>2018-11-01 17:35:33</sys_created_on>
-            <sys_id>642e59cddb2523007d8f3a92ba961911</sys_id>
+            <sys_created_on>2018-11-08 17:45:24</sys_created_on>
+            <sys_id>5d836ddbdb25e3007d8f3a92ba961955</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Testing to be started at 4:30 PM" display_value="Testing to be started at 4:30 PM" name="x_trg_friday_night_adapter_testing_table" sys_domain="global" view="Default view">1f9c18cddba123007d8f3a92ba9619b9</sys_ui_section>
             <sys_updated_by>jcampos-admin</sys_updated_by>
-            <sys_updated_on>2018-11-01 17:35:33</sys_updated_on>
+            <sys_updated_on>2018-11-08 17:45:24</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>99836ddbdb25e3007d8f3a92ba961951</element>
+            <position>15</position>
+            <sys_created_by>jcampos-admin</sys_created_by>
+            <sys_created_on>2018-11-08 17:45:24</sys_created_on>
+            <sys_id>dd836ddbdb25e3007d8f3a92ba961955</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Testing to be started at 4:30 PM" display_value="Testing to be started at 4:30 PM" name="x_trg_friday_night_adapter_testing_table" sys_domain="global" view="Default view">1f9c18cddba123007d8f3a92ba9619b9</sys_ui_section>
+            <sys_updated_by>jcampos-admin</sys_updated_by>
+            <sys_updated_on>2018-11-08 17:45:24</sys_updated_on>
+            <sys_user/>
+            <type>annotation</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>9d836ddbdb25e3007d8f3a92ba961951</element>
+            <position>16</position>
+            <sys_created_by>jcampos-admin</sys_created_by>
+            <sys_created_on>2018-11-08 17:45:24</sys_created_on>
+            <sys_id>51836ddbdb25e3007d8f3a92ba961956</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Testing to be started at 4:30 PM" display_value="Testing to be started at 4:30 PM" name="x_trg_friday_night_adapter_testing_table" sys_domain="global" view="Default view">1f9c18cddba123007d8f3a92ba9619b9</sys_ui_section>
+            <sys_updated_by>jcampos-admin</sys_updated_by>
+            <sys_updated_on>2018-11-08 17:45:24</sys_updated_on>
+            <sys_user/>
+            <type>annotation</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_soho_primary_tested</element>
+            <position>17</position>
+            <sys_created_by>jcampos-admin</sys_created_by>
+            <sys_created_on>2018-11-08 17:45:24</sys_created_on>
+            <sys_id>d1836ddbdb25e3007d8f3a92ba961956</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Testing to be started at 4:30 PM" display_value="Testing to be started at 4:30 PM" name="x_trg_friday_night_adapter_testing_table" sys_domain="global" view="Default view">1f9c18cddba123007d8f3a92ba9619b9</sys_ui_section>
+            <sys_updated_by>jcampos-admin</sys_updated_by>
+            <sys_updated_on>2018-11-08 17:45:24</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_soho_primary_connected</element>
+            <position>18</position>
+            <sys_created_by>jcampos-admin</sys_created_by>
+            <sys_created_on>2018-11-08 17:45:24</sys_created_on>
+            <sys_id>55836ddbdb25e3007d8f3a92ba961956</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Testing to be started at 4:30 PM" display_value="Testing to be started at 4:30 PM" name="x_trg_friday_night_adapter_testing_table" sys_domain="global" view="Default view">1f9c18cddba123007d8f3a92ba9619b9</sys_ui_section>
+            <sys_updated_by>jcampos-admin</sys_updated_by>
+            <sys_updated_on>2018-11-08 17:45:24</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_soho_primary_time</element>
+            <position>19</position>
+            <sys_created_by>jcampos-admin</sys_created_by>
+            <sys_created_on>2018-11-08 17:45:24</sys_created_on>
+            <sys_id>d5836ddbdb25e3007d8f3a92ba961956</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Testing to be started at 4:30 PM" display_value="Testing to be started at 4:30 PM" name="x_trg_friday_night_adapter_testing_table" sys_domain="global" view="Default view">1f9c18cddba123007d8f3a92ba9619b9</sys_ui_section>
+            <sys_updated_by>jcampos-admin</sys_updated_by>
+            <sys_updated_on>2018-11-08 17:45:24</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>.split</element>
-            <position>15</position>
+            <position>20</position>
             <sys_created_by>jcampos-admin</sys_created_by>
-            <sys_created_on>2018-11-01 17:35:33</sys_created_on>
-            <sys_id>e42e59cddb2523007d8f3a92ba961911</sys_id>
+            <sys_created_on>2018-11-08 17:45:24</sys_created_on>
+            <sys_id>59836ddbdb25e3007d8f3a92ba961956</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Testing to be started at 4:30 PM" display_value="Testing to be started at 4:30 PM" name="x_trg_friday_night_adapter_testing_table" sys_domain="global" view="Default view">1f9c18cddba123007d8f3a92ba9619b9</sys_ui_section>
             <sys_updated_by>jcampos-admin</sys_updated_by>
-            <sys_updated_on>2018-11-01 17:35:33</sys_updated_on>
+            <sys_updated_on>2018-11-08 17:45:24</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>a02e59cddb2523007d8f3a92ba96190e</element>
-            <position>16</position>
+            <element>91836ddbdb25e3007d8f3a92ba961952</element>
+            <position>21</position>
             <sys_created_by>jcampos-admin</sys_created_by>
-            <sys_created_on>2018-11-01 17:35:33</sys_created_on>
-            <sys_id>682e59cddb2523007d8f3a92ba961911</sys_id>
+            <sys_created_on>2018-11-08 17:45:24</sys_created_on>
+            <sys_id>d9836ddbdb25e3007d8f3a92ba961956</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Testing to be started at 4:30 PM" display_value="Testing to be started at 4:30 PM" name="x_trg_friday_night_adapter_testing_table" sys_domain="global" view="Default view">1f9c18cddba123007d8f3a92ba9619b9</sys_ui_section>
             <sys_updated_by>jcampos-admin</sys_updated_by>
-            <sys_updated_on>2018-11-01 17:35:33</sys_updated_on>
+            <sys_updated_on>2018-11-08 17:45:24</sys_updated_on>
             <sys_user/>
             <type>annotation</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>a42e59cddb2523007d8f3a92ba96190e</element>
-            <position>17</position>
+            <element>95836ddbdb25e3007d8f3a92ba961952</element>
+            <position>22</position>
             <sys_created_by>jcampos-admin</sys_created_by>
-            <sys_created_on>2018-11-01 17:35:33</sys_created_on>
-            <sys_id>e82e59cddb2523007d8f3a92ba961911</sys_id>
+            <sys_created_on>2018-11-08 17:45:24</sys_created_on>
+            <sys_id>5d836ddbdb25e3007d8f3a92ba961956</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Testing to be started at 4:30 PM" display_value="Testing to be started at 4:30 PM" name="x_trg_friday_night_adapter_testing_table" sys_domain="global" view="Default view">1f9c18cddba123007d8f3a92ba9619b9</sys_ui_section>
             <sys_updated_by>jcampos-admin</sys_updated_by>
-            <sys_updated_on>2018-11-01 17:35:33</sys_updated_on>
+            <sys_updated_on>2018-11-08 17:45:24</sys_updated_on>
             <sys_user/>
             <type>annotation</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>u_csfb_backup_tested</element>
-            <position>18</position>
+            <position>23</position>
             <sys_created_by>jcampos-admin</sys_created_by>
-            <sys_created_on>2018-11-01 17:35:33</sys_created_on>
-            <sys_id>6c2e59cddb2523007d8f3a92ba961911</sys_id>
+            <sys_created_on>2018-11-08 17:45:24</sys_created_on>
+            <sys_id>dd836ddbdb25e3007d8f3a92ba961956</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Testing to be started at 4:30 PM" display_value="Testing to be started at 4:30 PM" name="x_trg_friday_night_adapter_testing_table" sys_domain="global" view="Default view">1f9c18cddba123007d8f3a92ba9619b9</sys_ui_section>
             <sys_updated_by>jcampos-admin</sys_updated_by>
-            <sys_updated_on>2018-11-01 17:35:33</sys_updated_on>
+            <sys_updated_on>2018-11-08 17:45:24</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>u_csfb_backup_connected</element>
-            <position>19</position>
+            <position>24</position>
             <sys_created_by>jcampos-admin</sys_created_by>
-            <sys_created_on>2018-11-01 17:35:33</sys_created_on>
-            <sys_id>ec2e59cddb2523007d8f3a92ba961911</sys_id>
+            <sys_created_on>2018-11-08 17:45:24</sys_created_on>
+            <sys_id>51836ddbdb25e3007d8f3a92ba961957</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Testing to be started at 4:30 PM" display_value="Testing to be started at 4:30 PM" name="x_trg_friday_night_adapter_testing_table" sys_domain="global" view="Default view">1f9c18cddba123007d8f3a92ba9619b9</sys_ui_section>
             <sys_updated_by>jcampos-admin</sys_updated_by>
-            <sys_updated_on>2018-11-01 17:35:33</sys_updated_on>
+            <sys_updated_on>2018-11-08 17:45:24</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>u_cfsb_backup_time</element>
-            <position>20</position>
+            <position>25</position>
             <sys_created_by>jcampos-admin</sys_created_by>
-            <sys_created_on>2018-11-01 17:35:33</sys_created_on>
-            <sys_id>602e59cddb2523007d8f3a92ba961912</sys_id>
+            <sys_created_on>2018-11-08 17:45:24</sys_created_on>
+            <sys_id>d1836ddbdb25e3007d8f3a92ba961957</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Testing to be started at 4:30 PM" display_value="Testing to be started at 4:30 PM" name="x_trg_friday_night_adapter_testing_table" sys_domain="global" view="Default view">1f9c18cddba123007d8f3a92ba9619b9</sys_ui_section>
             <sys_updated_by>jcampos-admin</sys_updated_by>
-            <sys_updated_on>2018-11-01 17:35:33</sys_updated_on>
+            <sys_updated_on>2018-11-08 17:45:24</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>a82e59cddb2523007d8f3a92ba96190e</element>
-            <position>21</position>
+            <element>99836ddbdb25e3007d8f3a92ba961952</element>
+            <position>26</position>
             <sys_created_by>jcampos-admin</sys_created_by>
-            <sys_created_on>2018-11-01 17:35:33</sys_created_on>
-            <sys_id>e02e59cddb2523007d8f3a92ba961912</sys_id>
+            <sys_created_on>2018-11-08 17:45:24</sys_created_on>
+            <sys_id>55836ddbdb25e3007d8f3a92ba961957</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Testing to be started at 4:30 PM" display_value="Testing to be started at 4:30 PM" name="x_trg_friday_night_adapter_testing_table" sys_domain="global" view="Default view">1f9c18cddba123007d8f3a92ba9619b9</sys_ui_section>
             <sys_updated_by>jcampos-admin</sys_updated_by>
-            <sys_updated_on>2018-11-01 17:35:33</sys_updated_on>
+            <sys_updated_on>2018-11-08 17:45:24</sys_updated_on>
             <sys_user/>
             <type>annotation</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>ac2e59cddb2523007d8f3a92ba96190e</element>
-            <position>22</position>
+            <element>9d836ddbdb25e3007d8f3a92ba961952</element>
+            <position>27</position>
             <sys_created_by>jcampos-admin</sys_created_by>
-            <sys_created_on>2018-11-01 17:35:33</sys_created_on>
-            <sys_id>642e59cddb2523007d8f3a92ba961912</sys_id>
+            <sys_created_on>2018-11-08 17:45:24</sys_created_on>
+            <sys_id>d5836ddbdb25e3007d8f3a92ba961957</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Testing to be started at 4:30 PM" display_value="Testing to be started at 4:30 PM" name="x_trg_friday_night_adapter_testing_table" sys_domain="global" view="Default view">1f9c18cddba123007d8f3a92ba9619b9</sys_ui_section>
             <sys_updated_by>jcampos-admin</sys_updated_by>
-            <sys_updated_on>2018-11-01 17:35:33</sys_updated_on>
+            <sys_updated_on>2018-11-08 17:45:24</sys_updated_on>
             <sys_user/>
             <type>annotation</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>u_kcg_backup_tested</element>
-            <position>23</position>
+            <position>28</position>
             <sys_created_by>jcampos-admin</sys_created_by>
-            <sys_created_on>2018-11-01 17:35:33</sys_created_on>
-            <sys_id>e42e59cddb2523007d8f3a92ba961912</sys_id>
+            <sys_created_on>2018-11-08 17:45:24</sys_created_on>
+            <sys_id>59836ddbdb25e3007d8f3a92ba961957</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Testing to be started at 4:30 PM" display_value="Testing to be started at 4:30 PM" name="x_trg_friday_night_adapter_testing_table" sys_domain="global" view="Default view">1f9c18cddba123007d8f3a92ba9619b9</sys_ui_section>
             <sys_updated_by>jcampos-admin</sys_updated_by>
-            <sys_updated_on>2018-11-01 17:35:33</sys_updated_on>
+            <sys_updated_on>2018-11-08 17:45:24</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>u_kcg_backup_connected</element>
-            <position>24</position>
+            <position>29</position>
             <sys_created_by>jcampos-admin</sys_created_by>
-            <sys_created_on>2018-11-01 17:35:33</sys_created_on>
-            <sys_id>682e59cddb2523007d8f3a92ba961912</sys_id>
+            <sys_created_on>2018-11-08 17:45:24</sys_created_on>
+            <sys_id>d9836ddbdb25e3007d8f3a92ba961957</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Testing to be started at 4:30 PM" display_value="Testing to be started at 4:30 PM" name="x_trg_friday_night_adapter_testing_table" sys_domain="global" view="Default view">1f9c18cddba123007d8f3a92ba9619b9</sys_ui_section>
             <sys_updated_by>jcampos-admin</sys_updated_by>
-            <sys_updated_on>2018-11-01 17:35:33</sys_updated_on>
+            <sys_updated_on>2018-11-08 17:45:24</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>u_kcg_backup_time</element>
-            <position>25</position>
+            <position>30</position>
             <sys_created_by>jcampos-admin</sys_created_by>
-            <sys_created_on>2018-11-01 17:35:33</sys_created_on>
-            <sys_id>e82e59cddb2523007d8f3a92ba961912</sys_id>
+            <sys_created_on>2018-11-08 17:45:24</sys_created_on>
+            <sys_id>5d836ddbdb25e3007d8f3a92ba961957</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Testing to be started at 4:30 PM" display_value="Testing to be started at 4:30 PM" name="x_trg_friday_night_adapter_testing_table" sys_domain="global" view="Default view">1f9c18cddba123007d8f3a92ba9619b9</sys_ui_section>
             <sys_updated_by>jcampos-admin</sys_updated_by>
-            <sys_updated_on>2018-11-01 17:35:33</sys_updated_on>
+            <sys_updated_on>2018-11-08 17:45:24</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>a02e59cddb2523007d8f3a92ba96190f</element>
-            <position>26</position>
+            <element>91836ddbdb25e3007d8f3a92ba961953</element>
+            <position>31</position>
             <sys_created_by>jcampos-admin</sys_created_by>
-            <sys_created_on>2018-11-01 17:35:33</sys_created_on>
-            <sys_id>6c2e59cddb2523007d8f3a92ba961912</sys_id>
+            <sys_created_on>2018-11-08 17:45:24</sys_created_on>
+            <sys_id>dd836ddbdb25e3007d8f3a92ba961957</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Testing to be started at 4:30 PM" display_value="Testing to be started at 4:30 PM" name="x_trg_friday_night_adapter_testing_table" sys_domain="global" view="Default view">1f9c18cddba123007d8f3a92ba9619b9</sys_ui_section>
             <sys_updated_by>jcampos-admin</sys_updated_by>
-            <sys_updated_on>2018-11-01 17:35:33</sys_updated_on>
+            <sys_updated_on>2018-11-08 17:45:24</sys_updated_on>
             <sys_user/>
             <type>annotation</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>a42e59cddb2523007d8f3a92ba96190f</element>
-            <position>27</position>
+            <element>95836ddbdb25e3007d8f3a92ba961953</element>
+            <position>32</position>
             <sys_created_by>jcampos-admin</sys_created_by>
-            <sys_created_on>2018-11-01 17:35:33</sys_created_on>
-            <sys_id>ec2e59cddb2523007d8f3a92ba961912</sys_id>
+            <sys_created_on>2018-11-08 17:45:24</sys_created_on>
+            <sys_id>51836ddbdb25e3007d8f3a92ba961958</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Testing to be started at 4:30 PM" display_value="Testing to be started at 4:30 PM" name="x_trg_friday_night_adapter_testing_table" sys_domain="global" view="Default view">1f9c18cddba123007d8f3a92ba9619b9</sys_ui_section>
             <sys_updated_by>jcampos-admin</sys_updated_by>
-            <sys_updated_on>2018-11-01 17:35:33</sys_updated_on>
+            <sys_updated_on>2018-11-08 17:45:24</sys_updated_on>
             <sys_user/>
             <type>annotation</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>u_csrs_backup_tested</element>
-            <position>28</position>
+            <position>33</position>
             <sys_created_by>jcampos-admin</sys_created_by>
-            <sys_created_on>2018-11-01 17:35:33</sys_created_on>
-            <sys_id>602e59cddb2523007d8f3a92ba961913</sys_id>
+            <sys_created_on>2018-11-08 17:45:24</sys_created_on>
+            <sys_id>d1836ddbdb25e3007d8f3a92ba961958</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Testing to be started at 4:30 PM" display_value="Testing to be started at 4:30 PM" name="x_trg_friday_night_adapter_testing_table" sys_domain="global" view="Default view">1f9c18cddba123007d8f3a92ba9619b9</sys_ui_section>
             <sys_updated_by>jcampos-admin</sys_updated_by>
-            <sys_updated_on>2018-11-01 17:35:33</sys_updated_on>
+            <sys_updated_on>2018-11-08 17:45:24</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>u_csrs_backup_connected</element>
-            <position>29</position>
+            <position>34</position>
             <sys_created_by>jcampos-admin</sys_created_by>
-            <sys_created_on>2018-11-01 17:35:33</sys_created_on>
-            <sys_id>e02e59cddb2523007d8f3a92ba961913</sys_id>
+            <sys_created_on>2018-11-08 17:45:24</sys_created_on>
+            <sys_id>55836ddbdb25e3007d8f3a92ba961958</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Testing to be started at 4:30 PM" display_value="Testing to be started at 4:30 PM" name="x_trg_friday_night_adapter_testing_table" sys_domain="global" view="Default view">1f9c18cddba123007d8f3a92ba9619b9</sys_ui_section>
             <sys_updated_by>jcampos-admin</sys_updated_by>
-            <sys_updated_on>2018-11-01 17:35:33</sys_updated_on>
+            <sys_updated_on>2018-11-08 17:45:24</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>u_csrs_backup_time</element>
-            <position>30</position>
+            <position>35</position>
             <sys_created_by>jcampos-admin</sys_created_by>
-            <sys_created_on>2018-11-01 17:35:33</sys_created_on>
-            <sys_id>642e59cddb2523007d8f3a92ba961913</sys_id>
+            <sys_created_on>2018-11-08 17:45:24</sys_created_on>
+            <sys_id>d5836ddbdb25e3007d8f3a92ba961958</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Testing to be started at 4:30 PM" display_value="Testing to be started at 4:30 PM" name="x_trg_friday_night_adapter_testing_table" sys_domain="global" view="Default view">1f9c18cddba123007d8f3a92ba9619b9</sys_ui_section>
             <sys_updated_by>jcampos-admin</sys_updated_by>
-            <sys_updated_on>2018-11-01 17:35:33</sys_updated_on>
+            <sys_updated_on>2018-11-08 17:45:24</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>99836ddbdb25e3007d8f3a92ba961953</element>
+            <position>36</position>
+            <sys_created_by>jcampos-admin</sys_created_by>
+            <sys_created_on>2018-11-08 17:45:24</sys_created_on>
+            <sys_id>59836ddbdb25e3007d8f3a92ba961958</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Testing to be started at 4:30 PM" display_value="Testing to be started at 4:30 PM" name="x_trg_friday_night_adapter_testing_table" sys_domain="global" view="Default view">1f9c18cddba123007d8f3a92ba9619b9</sys_ui_section>
+            <sys_updated_by>jcampos-admin</sys_updated_by>
+            <sys_updated_on>2018-11-08 17:45:24</sys_updated_on>
+            <sys_user/>
+            <type>annotation</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>9d836ddbdb25e3007d8f3a92ba961953</element>
+            <position>37</position>
+            <sys_created_by>jcampos-admin</sys_created_by>
+            <sys_created_on>2018-11-08 17:45:24</sys_created_on>
+            <sys_id>d9836ddbdb25e3007d8f3a92ba961958</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Testing to be started at 4:30 PM" display_value="Testing to be started at 4:30 PM" name="x_trg_friday_night_adapter_testing_table" sys_domain="global" view="Default view">1f9c18cddba123007d8f3a92ba9619b9</sys_ui_section>
+            <sys_updated_by>jcampos-admin</sys_updated_by>
+            <sys_updated_on>2018-11-08 17:45:24</sys_updated_on>
+            <sys_user/>
+            <type>annotation</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_soho_backup_tested</element>
+            <position>38</position>
+            <sys_created_by>jcampos-admin</sys_created_by>
+            <sys_created_on>2018-11-08 17:45:24</sys_created_on>
+            <sys_id>5d836ddbdb25e3007d8f3a92ba961958</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Testing to be started at 4:30 PM" display_value="Testing to be started at 4:30 PM" name="x_trg_friday_night_adapter_testing_table" sys_domain="global" view="Default view">1f9c18cddba123007d8f3a92ba9619b9</sys_ui_section>
+            <sys_updated_by>jcampos-admin</sys_updated_by>
+            <sys_updated_on>2018-11-08 17:45:24</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_soho_backup_connected</element>
+            <position>39</position>
+            <sys_created_by>jcampos-admin</sys_created_by>
+            <sys_created_on>2018-11-08 17:45:24</sys_created_on>
+            <sys_id>dd836ddbdb25e3007d8f3a92ba961958</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Testing to be started at 4:30 PM" display_value="Testing to be started at 4:30 PM" name="x_trg_friday_night_adapter_testing_table" sys_domain="global" view="Default view">1f9c18cddba123007d8f3a92ba9619b9</sys_ui_section>
+            <sys_updated_by>jcampos-admin</sys_updated_by>
+            <sys_updated_on>2018-11-08 17:45:24</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_soho_backup_time</element>
+            <position>40</position>
+            <sys_created_by>jcampos-admin</sys_created_by>
+            <sys_created_on>2018-11-08 17:45:24</sys_created_on>
+            <sys_id>51836ddbdb25e3007d8f3a92ba961959</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Testing to be started at 4:30 PM" display_value="Testing to be started at 4:30 PM" name="x_trg_friday_night_adapter_testing_table" sys_domain="global" view="Default view">1f9c18cddba123007d8f3a92ba9619b9</sys_ui_section>
+            <sys_updated_by>jcampos-admin</sys_updated_by>
+            <sys_updated_on>2018-11-08 17:45:24</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>

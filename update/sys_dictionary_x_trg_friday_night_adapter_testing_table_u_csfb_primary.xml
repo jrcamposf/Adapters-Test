@@ -48,16 +48,16 @@
         <sys_created_by>jcampos-admin</sys_created_by>
         <sys_created_on>2018-11-01 13:05:57</sys_created_on>
         <sys_customer_update>false</sys_customer_update>
-        <sys_id>ab60e841dbe123007d8f3a92ba9619e5</sys_id>
-        <sys_mod_count>1</sys_mod_count>
+        <sys_id>c26ca1e6dbad63007d8f3a92ba96199e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
         <sys_name>CSFB Primary</sys_name>
         <sys_package display_value="Friday Night Adapter Testing" source="x_trg_friday_night">2f4332ffdb892f409b446165ca9619a3</sys_package>
         <sys_policy/>
         <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="Friday Night Adapter Testing">2f4332ffdb892f409b446165ca9619a3</sys_scope>
         <sys_update_name>sys_dictionary_x_trg_friday_night_adapter_testing_table_u_csfb_primary</sys_update_name>
-        <sys_updated_by>jcampos-admin</sys_updated_by>
-        <sys_updated_on>2018-11-01 13:05:58</sys_updated_on>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2018-11-06 10:28:50</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
