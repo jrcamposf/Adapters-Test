@@ -223,9 +223,8 @@
         </element>
         <element attributes="edge_encryption_enabled=true" choice="1" label="Tested" max_length="40" name="u_csrs_primary_tested" type="string">
             <choice>
-                <element label="Choice 1" sequence="0" value="Choice 1"/>
-                <element label="Choice 2" sequence="1" value="Choice 2"/>
-                <element label="Choice 3" sequence="2" value="Choice 3"/>
+                <element label="Yes" sequence="0" value="Yes"/>
+                <element label="No" sequence="1" value="No"/>
             </choice>
         </element>
         <element label="Time" max_length="40" name="u_csrs_primary_time" type="glide_time"/>
@@ -652,6 +651,7 @@
             </choice>
         </element>
         <element label="Time" max_length="40" name="u_nyse_primary_time" type="glide_time"/>
+        <element label="Send to BSO" max_length="40" name="u_send_to_bso" type="boolean"/>
         <element attributes="edge_encryption_enabled=true" choice="1" label="Connected" max_length="40" name="u_sig_backup_connected" type="string">
             <choice>
                 <element label="Yes" sequence="0" value="Yes"/>
