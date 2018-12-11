@@ -1,26 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <record_update sys_domain="global" table="sysevent_email_action">
     <sysevent_email_action action="INSERT_OR_UPDATE">
-        <action_insert>true</action_insert>
+        <action_insert>false</action_insert>
         <action_update>true</action_update>
         <active>true</active>
         <advanced_condition/>
         <affected_field_on_event/>
         <category display_value="Friday Night Adapter Testing" name="Friday Night Adapter Testing">4707e24fdb7deb007d8f3a92ba96191c</category>
         <collection>x_trg_friday_night_adapter_testing_table</collection>
-        <condition table="x_trg_friday_night_adapter_testing_table">u_send_to_bso=true^EQ<item endquery="false" field="u_send_to_bso" goto="false" newquery="false" operator="=" or="false" value="true"/>
-            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
-        </condition>
-        <content_type>text/html</content_type>
+        <condition/>
+        <content_type>multipart/mixed</content_type>
         <description/>
-        <event_name/>
+        <event_name>x_trg_friday_night.sendToBSOfat</event_name>
         <event_parm_1>false</event_parm_1>
         <event_parm_2>false</event_parm_2>
         <exclude_delegates>false</exclude_delegates>
         <force_delivery>false</force_delivery>
-        <from/>
-        <generation_type>engine</generation_type>
-        <importance/>
+        <from>Global Operations &lt;tradestationdev@service-now.com&gt;</from>
+        <generation_type>event</generation_type>
+        <importance>high</importance>
         <include_attachments>false</include_attachments>
         <item>event.parm1</item>
         <item_table/>
@@ -450,7 +448,7 @@
         <recipient_fields/>
         <recipient_groups/>
         <recipient_users>BSOD@tradestation.com</recipient_users>
-        <reply_to/>
+        <reply_to>Global Operations &lt;tradestationdev@service-now.com&gt;</reply_to>
         <send_self>true</send_self>
         <sms_alternate/>
         <style/>
@@ -463,7 +461,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>13fb2283dbbdeb007d8f3a92ba9619f1</sys_id>
-        <sys_mod_count>18</sys_mod_count>
+        <sys_mod_count>23</sys_mod_count>
         <sys_name>Adapter Testing</sys_name>
         <sys_overrides/>
         <sys_package display_value="Friday Night Adapter Testing" source="x_trg_friday_night">2f4332ffdb892f409b446165ca9619a3</sys_package>
@@ -472,11 +470,11 @@
         <sys_scope display_value="Friday Night Adapter Testing">2f4332ffdb892f409b446165ca9619a3</sys_scope>
         <sys_update_name>sysevent_email_action_13fb2283dbbdeb007d8f3a92ba9619f1</sys_update_name>
         <sys_updated_by>jcampos-admin</sys_updated_by>
-        <sys_updated_on>2018-11-20 15:25:09</sys_updated_on>
+        <sys_updated_on>2018-11-22 13:45:21</sys_updated_on>
         <sys_version>2</sys_version>
         <template/>
         <type>email</type>
-        <weight>0</weight>
+        <weight>100</weight>
     </sysevent_email_action>
     <sys_translated_text action="delete_multiple" query="documentkey=13fb2283dbbdeb007d8f3a92ba9619f1"/>
 </record_update>
