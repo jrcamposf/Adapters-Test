@@ -89,7 +89,7 @@
             </choice>
         </element>
         <element label="Time" max_length="40" name="u_bats_primary_time" type="glide_time"/>
-        <element attributes="edge_encryption_enabled=true" label="Error/Notes" max_length="40" name="u_byx_backup_comments" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Error/Notes" max_length="600" name="u_byx_backup_comments" type="string"/>
         <element attributes="edge_encryption_enabled=true" choice="1" label="Connected" max_length="40" name="u_byx_backup_connected" type="string">
             <choice>
                 <element label="Yes" sequence="0" value="Yes"/>
@@ -146,13 +146,33 @@
         </element>
         <element label="Time" max_length="40" name="u_cdro_primary_time" type="glide_time"/>
         <element attributes="edge_encryption_enabled=true" label="Error/Notes" max_length="600" name="u_cfe_backup_comments" type="string"/>
+        <element choice="1" label="Connected" max_length="40" name="u_cfe_backup_connected" type="string">
+            <choice>
+                <element label="Yes" sequence="1" value="Yes"/>
+                <element label="No" sequence="2" value="No"/>
+            </choice>
+        </element>
+        <element choice="1" label="Tested" max_length="40" name="u_cfe_backup_tested" type="string">
+            <choice>
+                <element label="Yes" sequence="0" value="Yes"/>
+                <element label="No" sequence="1" value="No"/>
+            </choice>
+        </element>
+        <element label="Time" max_length="40" name="u_cfe_backup_time" type="glide_time"/>
         <element attributes="edge_encryption_enabled=true" label="Error/Notes" max_length="600" name="u_cfe_primary_comments" type="string"/>
+        <element choice="1" label="Connected" max_length="40" name="u_cfe_primary_connected" type="string">
+            <choice>
+                <element label="Yes" sequence="0" value="Yes"/>
+                <element label="No" sequence="1" value="No"/>
+            </choice>
+        </element>
         <element attributes="edge_encryption_enabled=true" choice="1" label="Tested" max_length="40" name="u_cfe_primary_tested" type="string">
             <choice>
                 <element label="Yes" sequence="0" value="Yes"/>
                 <element label="No" sequence="1" value="No"/>
             </choice>
         </element>
+        <element label="Time" max_length="40" name="u_cfe_primary_time" type="glide_time"/>
         <element label="Time" max_length="40" name="u_cfsb_backup_time" type="glide_time"/>
         <element label="Time" max_length="40" name="u_cfsb_primary_time" type="glide_time"/>
         <element attributes="edge_encryption_enabled=true" label="Error/Notes" max_length="600" name="u_cme_backup_comments" type="string"/>
@@ -277,7 +297,7 @@
             </choice>
         </element>
         <element label="Time" max_length="40" name="u_ctdl_primary_time" type="glide_time"/>
-        <element attributes="edge_encryption_enabled=true" label="Error/Notes" max_length="40" name="u_dfin_backup_comments" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Error/Notes" max_length="600" name="u_dfin_backup_comments" type="string"/>
         <element attributes="edge_encryption_enabled=true" choice="1" label="Connected" max_length="40" name="u_dfin_backup_connected" type="string">
             <choice>
                 <element label="Yes" sequence="0" value="Yes"/>
@@ -572,9 +592,8 @@
         </element>
         <element attributes="edge_encryption_enabled=true" choice="1" label="Tested" max_length="40" name="u_msco_backup_tested" type="string">
             <choice>
-                <element label="Choice 1" sequence="0" value="Choice 1"/>
-                <element label="Choice 2" sequence="1" value="Choice 2"/>
-                <element label="Choice 3" sequence="2" value="Choice 3"/>
+                <element label="Yes" sequence="0" value="Yes"/>
+                <element label="No" sequence="1" value="No"/>
             </choice>
         </element>
         <element label="Time" max_length="40" name="u_msco_backup_time" type="glide_time"/>
@@ -733,7 +752,7 @@
             </choice>
         </element>
         <element label="Time" max_length="40" name="u_sig_primary_time" type="glide_time"/>
-        <element attributes="edge_encryption_enabled=true" label="Error/Notes" max_length="40" name="u_soho_backup_comments" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Error/Notes" max_length="600" name="u_soho_backup_comments" type="string"/>
         <element attributes="edge_encryption_enabled=true" choice="1" label="Connected" max_length="40" name="u_soho_backup_connected" type="string">
             <choice>
                 <element label="Yes" sequence="0" value="Yes"/>
@@ -747,7 +766,7 @@
             </choice>
         </element>
         <element label="Time" max_length="40" name="u_soho_backup_time" type="glide_time"/>
-        <element attributes="edge_encryption_enabled=true" label="Error/Notes" max_length="40" name="u_soho_primary_comments" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Error/Notes" max_length="600" name="u_soho_primary_comments" type="string"/>
         <element attributes="edge_encryption_enabled=true" choice="1" label="Connected" max_length="40" name="u_soho_primary_connected" type="string">
             <choice>
                 <element label="Yes" sequence="0" value="Yes"/>

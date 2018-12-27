@@ -5,13 +5,13 @@
             <element>u_live_farm</element>
             <position>0</position>
             <sys_created_by>jcampos-admin</sys_created_by>
-            <sys_created_on>2018-12-11 19:47:06</sys_created_on>
-            <sys_id>82db33f51b5a2b00ac9d87776e4bcb6a</sys_id>
+            <sys_created_on>2018-12-20 11:46:54</sys_created_on>
+            <sys_id>1b346c781beeef00ac9d87776e4bcb0d</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_trg_friday_night_adapter_testing_table" sys_domain="global" view="Default view">d893b6bfdbc92f409b446165ca9619c9</sys_ui_section>
             <sys_updated_by>jcampos-admin</sys_updated_by>
-            <sys_updated_on>2018-12-11 19:47:06</sys_updated_on>
+            <sys_updated_on>2018-12-20 11:46:54</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -19,13 +19,13 @@
             <element>.begin_split</element>
             <position>1</position>
             <sys_created_by>jcampos-admin</sys_created_by>
-            <sys_created_on>2018-12-11 19:47:06</sys_created_on>
-            <sys_id>06db33f51b5a2b00ac9d87776e4bcb6a</sys_id>
+            <sys_created_on>2018-12-20 11:46:54</sys_created_on>
+            <sys_id>9b346c781beeef00ac9d87776e4bcb0d</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_trg_friday_night_adapter_testing_table" sys_domain="global" view="Default view">d893b6bfdbc92f409b446165ca9619c9</sys_ui_section>
             <sys_updated_by>jcampos-admin</sys_updated_by>
-            <sys_updated_on>2018-12-11 19:47:06</sys_updated_on>
+            <sys_updated_on>2018-12-20 11:46:54</sys_updated_on>
             <sys_user/>
             <type>.begin_split</type>
         </sys_ui_element>
@@ -33,13 +33,13 @@
             <element>sys_created_by</element>
             <position>2</position>
             <sys_created_by>jcampos-admin</sys_created_by>
-            <sys_created_on>2018-12-11 19:47:06</sys_created_on>
-            <sys_id>86db33f51b5a2b00ac9d87776e4bcb6a</sys_id>
+            <sys_created_on>2018-12-20 11:46:54</sys_created_on>
+            <sys_id>1f346c781beeef00ac9d87776e4bcb0d</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_trg_friday_night_adapter_testing_table" sys_domain="global" view="Default view">d893b6bfdbc92f409b446165ca9619c9</sys_ui_section>
             <sys_updated_by>jcampos-admin</sys_updated_by>
-            <sys_updated_on>2018-12-11 19:47:06</sys_updated_on>
+            <sys_updated_on>2018-12-20 11:46:54</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -47,13 +47,13 @@
             <element>sys_created_on</element>
             <position>3</position>
             <sys_created_by>jcampos-admin</sys_created_by>
-            <sys_created_on>2018-12-11 19:47:06</sys_created_on>
-            <sys_id>0adb33f51b5a2b00ac9d87776e4bcb6a</sys_id>
+            <sys_created_on>2018-12-20 11:46:54</sys_created_on>
+            <sys_id>9f346c781beeef00ac9d87776e4bcb0d</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_trg_friday_night_adapter_testing_table" sys_domain="global" view="Default view">d893b6bfdbc92f409b446165ca9619c9</sys_ui_section>
             <sys_updated_by>jcampos-admin</sys_updated_by>
-            <sys_updated_on>2018-12-11 19:47:06</sys_updated_on>
+            <sys_updated_on>2018-12-20 11:46:54</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -61,13 +61,13 @@
             <element>.split</element>
             <position>4</position>
             <sys_created_by>jcampos-admin</sys_created_by>
-            <sys_created_on>2018-12-11 19:47:06</sys_created_on>
-            <sys_id>8adb33f51b5a2b00ac9d87776e4bcb6a</sys_id>
+            <sys_created_on>2018-12-20 11:46:54</sys_created_on>
+            <sys_id>13346c781beeef00ac9d87776e4bcb0e</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_trg_friday_night_adapter_testing_table" sys_domain="global" view="Default view">d893b6bfdbc92f409b446165ca9619c9</sys_ui_section>
             <sys_updated_by>jcampos-admin</sys_updated_by>
-            <sys_updated_on>2018-12-11 19:47:06</sys_updated_on>
+            <sys_updated_on>2018-12-20 11:46:54</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
@@ -75,13 +75,13 @@
             <element>u_approved_by</element>
             <position>5</position>
             <sys_created_by>jcampos-admin</sys_created_by>
-            <sys_created_on>2018-12-11 19:47:06</sys_created_on>
-            <sys_id>0edb33f51b5a2b00ac9d87776e4bcb6a</sys_id>
+            <sys_created_on>2018-12-20 11:46:54</sys_created_on>
+            <sys_id>93346c781beeef00ac9d87776e4bcb0e</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_trg_friday_night_adapter_testing_table" sys_domain="global" view="Default view">d893b6bfdbc92f409b446165ca9619c9</sys_ui_section>
             <sys_updated_by>jcampos-admin</sys_updated_by>
-            <sys_updated_on>2018-12-11 19:47:06</sys_updated_on>
+            <sys_updated_on>2018-12-20 11:46:54</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -89,13 +89,13 @@
             <element>u_approved</element>
             <position>6</position>
             <sys_created_by>jcampos-admin</sys_created_by>
-            <sys_created_on>2018-12-11 19:47:06</sys_created_on>
-            <sys_id>8edb33f51b5a2b00ac9d87776e4bcb6a</sys_id>
+            <sys_created_on>2018-12-20 11:46:54</sys_created_on>
+            <sys_id>17346c781beeef00ac9d87776e4bcb0e</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_trg_friday_night_adapter_testing_table" sys_domain="global" view="Default view">d893b6bfdbc92f409b446165ca9619c9</sys_ui_section>
             <sys_updated_by>jcampos-admin</sys_updated_by>
-            <sys_updated_on>2018-12-11 19:47:06</sys_updated_on>
+            <sys_updated_on>2018-12-20 11:46:54</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>

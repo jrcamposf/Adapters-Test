@@ -32,412 +32,479 @@
 <td style="text-align: center;"><span style="color: #ffffff;"><strong><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">Tested</span></strong></span></td>
 <td style="text-align: center;"><span style="color: #ffffff;"><strong><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">Connected</span></strong></span></td>
 <td style="text-align: center;"><span style="color: #ffffff;"><strong><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">Time</span></strong></span></td>
+<td style="text-align: center;"><span style="color: #ffffff;"><strong><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">Error/Notes</span></strong></span></td>
 </tr>
 <tr>
 <td><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">Was EURX tested on the PRIMARY adapter in the backup farm?</span></td>
 <td style="text-align: center;"><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">${u_eurx_primary_backup}</span></td>
 <td style="text-align: center;"><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">${u_eurx_primary_connected}</span></td>
 <td style="text-align: center;"><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">${u_eurx_primary_time}</span></td>
+<td style="text-align: center;"><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">${u_eurex_primary_comments}</span></td>
 </tr>
 <tr>
 <td><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">Was EURX tested on the BACKUP adapter in the backup farm?</span></td>
 <td style="text-align: center;"><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">${u_eurx_backup_tested}</span></td>
 <td style="text-align: center;"><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">${u_eurx_backup}</span></td>
 <td style="text-align: center;"><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">${u_eurx_backup_time}</span></td>
+<td style="text-align: center;"><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">${u_eurex_backup_comments}</span></td>
 </tr>
 <tr bgcolor="#0077bf">
-<td><span style="color: #ffffff;"><strong><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">Testing to be started at 4:20 PM</span></strong></span></td>
+<td><span style="color: #ffffff;"><strong><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">Testing to be started at 4:30 PM</span></strong></span></td>
 <td style="text-align: center;"><span style="color: #ffffff;"><strong><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">Tested</span></strong></span></td>
 <td style="text-align: center;"><span style="color: #ffffff;"><strong><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">Connected</span></strong></span></td>
 <td style="text-align: center;"><span style="color: #ffffff;"><strong><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">Time</span></strong></span></td>
+<td style="text-align: center;"><span style="color: #ffffff;"><strong><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">Error/Notes</span></strong></span></td>
 </tr>
 <tr>
 <td><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">Was CSFB tested on the PRIMARY adapter in the backup farm?</span></td>
 <td style="text-align: center;"><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">${u_csfb_primary_tested}</span></td>
 <td style="text-align: center;"><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">${u_csfb_primary_connected}</span></td>
-<td style="text-align: center;"><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">${u_csfb_primary_time}</span></td>
+<td style="text-align: center;"><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">${u_cfsb_primary_time}</span></td>
+<td style="text-align: center;"><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">${u_csfb_primary_comments}</span></td>
 </tr>
 <tr>
 <td><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">Was CSFB tested on the BACKUP adapter in the backup farm?</span></td>
 <td style="text-align: center;"><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">${u_csfb_backup_tested}</span></td>
 <td style="text-align: center;"><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">${u_csfb_backup_connected}</span></td>
-<td style="text-align: center;"><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">${u_csfb_backup_time}</span></td>
+<td style="text-align: center;"><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">${u_cfsb_backup_time}</span></td>
+<td style="text-align: center;"><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">${u_csfb_backup_comments}</span></td>
 </tr>
 <tr>
 <td><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">Was KCG tested on the PRIMARY adapter in the backup farm?</span></td>
 <td style="text-align: center;"><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">${u_kcg_primary_tested}</span></td>
 <td style="text-align: center;"><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">${u_kcg_primary_connected}</span></td>
 <td style="text-align: center;"><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">${u_kcg_primary_time}</span></td>
+<td style="text-align: center;"><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">${u_kcg_primary_comments}</span></td>
 </tr>
 <tr>
 <td><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">Was KCG tested on the BACKUP adapter in the backup farm?</span></td>
 <td style="text-align: center;"><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">${u_kcg_backup_tested}</span></td>
 <td style="text-align: center;"><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">${u_kcg_backup_connected}</span></td>
 <td style="text-align: center;"><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">${u_kcg_backup_time}</span></td>
+<td style="text-align: center;"><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">${u_kcg_backup_comments}</span></td>
 </tr>
 <tr>
 <td><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">Was CSRS tested on the PRIMARY adapter in the backup farm?</span></td>
 <td style="text-align: center;"><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">${u_csrs_primary_tested}</span></td>
 <td style="text-align: center;"><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">${u_csrs_primary_connected}</span></td>
 <td style="text-align: center;"><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">${u_csrs_primary_time}</span></td>
+<td style="text-align: center;"><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">${u_csrs_primary_comments}</span></td>
 </tr>
 <tr>
 <td><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">Was CSRS tested on the BACKUP adapter in the backup farm?</span></td>
 <td style="text-align: center;"><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">${u_csrs_backup_tested}</span></td>
 <td style="text-align: center;"><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">${u_csrs_backup_connected}</span></td>
 <td style="text-align: center;"><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">${u_csrs_backup_time}</span></td>
+<td style="text-align: center;"><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">${u_csrs_backup_comments}</span></td>
 </tr>
 <tr>
 <td><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">Was SOHO tested on the PRIMARY adapter in the backup farm?</span></td>
 <td style="text-align: center;"><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">${u_soho_primary_tested}</span></td>
 <td style="text-align: center;"><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">${u_soho_primary_connected}</span></td>
 <td style="text-align: center;"><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">${u_soho_primary_time}</span></td>
+<td style="text-align: center;"><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">${u_soho_primary_comments}</span></td>
 </tr>
 <tr>
 <td><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">Was SOHO tested on the BACKUP adapter in the backup farm?</span></td>
 <td style="text-align: center;"><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">${u_soho_backup_tested}</span></td>
 <td style="text-align: center;"><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">${u_soho_backup_connected}</span></td>
 <td style="text-align: center;"><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">${u_soho_backup_time}</span></td>
+<td style="text-align: center;"><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">${u_soho_backup_comments}</span></td>
 </tr>
 <tr bgcolor="#0077bf">
 <td><span style="color: #ffffff;"><strong><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">Testing to be started at 4:45 PM</span></strong></span></td>
 <td style="text-align: center;"><span style="color: #ffffff;"><strong><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">Tested</span></strong></span></td>
 <td style="text-align: center;"><span style="color: #ffffff;"><strong><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">Connected</span></strong></span></td>
 <td style="text-align: center;"><span style="color: #ffffff;"><strong><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">Time</span></strong></span></td>
+<td style="text-align: center;"><span style="color: #ffffff;"><strong><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">Error/Notes</span></strong></span></td>
 </tr>
 <tr>
 <td><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">Was CDRO tested on the PRIMARY adapter in the backup farm?</span></td>
 <td style="text-align: center;"><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">${u_cdro_primary_tested}</span></td>
 <td style="text-align: center;"><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">${u_cdro_primary_connected}</span></td>
 <td style="text-align: center;"><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">${u_cdro_primary_time}</span></td>
+<td style="text-align: center;"><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">${u_cdro_primary_comments}</span></td>
 </tr>
 <tr>
 <td><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">Was CDRO tested on the BACKUP adapter in the backup farm?</span></td>
 <td style="text-align: center;"><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">${u_cdro_backup_tested}</span></td>
 <td style="text-align: center;"><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">${u_cdro_backup_connected}<br /><br /></span></td>
 <td style="text-align: center;"><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">${u_cdro_backup_time}</span></td>
+<td style="text-align: center;"><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">${u_cdro_backup_comments}</span></td>
 </tr>
 <tr>
 <td><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">Was DFIN tested on the PRIMARY adapter in the backup farm?</span></td>
 <td style="text-align: center;"><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">${u_dfin_primary_tested}</span></td>
 <td style="text-align: center;"><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">${u_dfin_primary_connected}</span></td>
 <td style="text-align: center;"><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">${u_dfin_primary_time}</span></td>
+<td style="text-align: center;"><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">${u_dfin_primary_comments}</span></td>
 </tr>
 <tr>
 <td><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">Was DFIN tested on the BACKUP adapter in the backup farm?</span></td>
 <td style="text-align: center;"><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">${u_dfin_backup_tested}</span></td>
 <td style="text-align: center;"><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">${u_dfin_backup_connected}</span></td>
 <td style="text-align: center;"><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">${u_dfin_backup_time}</span></td>
+<td style="text-align: center;"><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">${u_dfin_backup_comments}</span></td>
 </tr>
 <tr>
 <td><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">Was G1X tested on the PRIMARY adapter in the backup farm?</span></td>
 <td style="text-align: center;"><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">${u_g1x_primary_tested}</span></td>
 <td style="text-align: center;"><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">${u_g1x_primary_connected}</span></td>
 <td style="text-align: center;"><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">${u_g1x_primary_time}</span></td>
+<td style="text-align: center;"><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">${u_g1x_primary_comments}</span></td>
 </tr>
 <tr>
 <td><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">Was G1X tested on the BACKUP adapter in the backup farm?</span></td>
 <td style="text-align: center;"><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">${u_g1x_backup_tested}</span></td>
 <td style="text-align: center;"><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">${u_g1x_backup_connected}</span></td>
 <td style="text-align: center;"><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">${u_g1x_backup_time}</span></td>
+<td style="text-align: center;"><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">${u_g1x_backup_comments}</span></td>
 </tr>
 <tr bgcolor="#0077bf">
 <td><span style="color: #ffffff;"><strong><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">Testing to be started at 4:55 PM</span></strong></span></td>
 <td style="text-align: center;"><span style="color: #ffffff;"><strong><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">Tested</span></strong></span></td>
 <td style="text-align: center;"><span style="color: #ffffff;"><strong><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">Connected</span></strong></span></td>
 <td style="text-align: center;"><span style="color: #ffffff;"><strong><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">Time</span></strong></span></td>
+<td style="text-align: center;"><span style="color: #ffffff;"><strong><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">Error/Notes</span></strong></span></td>
 </tr>
 <tr>
 <td><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">Was NYSE tested on the PRIMARY adapter in the backup farm?</span></td>
 <td style="text-align: center;"><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">${u_nyse_primary_tested}</span></td>
 <td style="text-align: center;"><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">${u_nyse_primary_connected}</span></td>
 <td style="text-align: center;"><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">${u_nyse_primary_time}</span></td>
+<td style="text-align: center;"><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">${u_nyse_primary_comments}</span></td>
 </tr>
 <tr>
 <td><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">Was NYSE tested on the BACKUP adapter in the backup farm?</span></td>
 <td style="text-align: center;"><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">${u_nyse_backup_tested}</span></td>
 <td style="text-align: center;"><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">${u_nyse_backup_connected}</span></td>
 <td style="text-align: center;"><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">${u_nyse_backup_time}</span></td>
+<td style="text-align: center;"><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">${u_nyse_backup_comments}</span></td>
 </tr>
 <tr>
 <td><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">Was SIG tested on the PRIMARY adapter in the backup farm?</span></td>
 <td style="text-align: center;"><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">${u_sig_primary_tested}</span></td>
 <td style="text-align: center;"><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">${u_sig_primary_connected}</span></td>
 <td style="text-align: center;"><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">${u_sig_primary_time}</span></td>
+<td style="text-align: center;"><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">${u_sig_primary_comments}</span></td>
 </tr>
 <tr>
 <td><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">Was SIG tested on the BACKUP adapter in the backup farm?</span></td>
 <td style="text-align: center;"><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">${u_sig_backup_tested}</span></td>
 <td style="text-align: center;"><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">${u_sig_backup_connected}</span></td>
 <td style="text-align: center;"><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">${u_sig_backup_time}</span></td>
+<td style="text-align: center;"><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">${u_sig_backup_comments}</span></td>
 </tr>
 <tr>
 <td><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">Was MSCO tested on the PRIMARY adapter in the backup farm?</span></td>
 <td style="text-align: center;"><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">${u_msco_primary_tested}</span></td>
 <td style="text-align: center;"><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">${u_msco_primary_connected}</span></td>
 <td style="text-align: center;"><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">${u_msco_primary_time}</span></td>
+<td style="text-align: center;"><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">${u_msco_primary_comments}</span></td>
 </tr>
 <tr>
 <td><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">Was MSCO tested on the BACKUP adapter in the backup farm?</span></td>
 <td style="text-align: center;"><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">${u_msco_backup_tested}</span></td>
 <td style="text-align: center;"><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">${u_msco_backup_connected}</span></td>
 <td style="text-align: center;"><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">${u_msco_backup_time}</span></td>
+<td style="text-align: center;"><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">${u_msco_backup_comments}</span></td>
 </tr>
 <tr>
 <td><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">Was WEX tested on the PRIMARY adapter in the backup farm?</span></td>
 <td style="text-align: center;"><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">${u_wex_primary_tested}</span></td>
 <td style="text-align: center;"><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">${u_wex_primary_connected}</span></td>
 <td style="text-align: center;"><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">${u_wex_primary_time}</span></td>
+<td style="text-align: center;"><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">${u_wex_primary_comments}</span></td>
 </tr>
 <tr>
 <td><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">Was WEX tested on the BACKUP adapter in the backup farm?</span></td>
 <td style="text-align: center;"><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">${u_wex_backup_tested}</span></td>
 <td style="text-align: center;"><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">${u_wex_backup_connected}</span></td>
 <td style="text-align: center;"><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">${u_wex_backup_time}</span></td>
+<td style="text-align: center;"><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">${u_wex_backup_comments}</span></td>
 </tr>
 <tr>
 <td><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">Was WEX2 tested on the PRIMARY adapter in the backup farm?</span></td>
 <td style="text-align: center;"><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">${u_wex2_primary_tested}</span></td>
 <td style="text-align: center;"><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">${u_wex2_primary_connected}</span></td>
 <td style="text-align: center;"><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">${u_wex2_primary_time}</span></td>
+<td style="text-align: center;"><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">${u_wex2_primary_comments}</span></td>
 </tr>
 <tr>
 <td><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">Was WEX2 tested on the BACKUP adapter in the backup farm?</span></td>
 <td style="text-align: center;"><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">${u_wex2_backup_tested}</span></td>
 <td style="text-align: center;"><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">${u_wex2_backup_connected}</span></td>
 <td style="text-align: center;"><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">${u_wex2_backup_time}</span></td>
+<td style="text-align: center;"><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">${u_wex2_backup_comments}</span></td>
 </tr>
 <tr bgcolor="#0077bf">
 <td><span style="color: #ffffff;"><strong><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">Testing to be started at 5:00 PM</span></strong></span></td>
 <td style="text-align: center;"><span style="color: #ffffff;"><strong><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">Tested</span></strong></span></td>
 <td style="text-align: center;"><span style="color: #ffffff;"><strong><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">Connected</span></strong></span></td>
 <td style="text-align: center;"><span style="color: #ffffff;"><strong><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">Time</span></strong></span></td>
+<td style="text-align: center;"><span style="color: #ffffff;"><strong><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">Error/Notes</span></strong></span></td>
 </tr>
 <tr>
 <td><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">Was IEXG tested on the PRIMARY adapter in the backup farm?</span></td>
 <td style="text-align: center;"><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">${u_iexg_primary_tested}</span></td>
 <td style="text-align: center;"><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">${u_iexg_primary_connected}</span></td>
 <td style="text-align: center;"><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">${u_iexg_primary_time}</span></td>
+<td style="text-align: center;"><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">${u_iexg_primary_comments}</span></td>
 </tr>
 <tr>
 <td><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">Was IEXG tested on the BACKUP adapter in the backup farm?</span></td>
 <td style="text-align: center;"><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">${u_iexg_backup_tested}</span></td>
 <td style="text-align: center;"><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">${u_iexg_backup_connected}</span></td>
 <td style="text-align: center;"><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">${u_iexg_backup_time}</span></td>
+<td style="text-align: center;"><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">${u_iexg_backup_comments}</span></td>
 </tr>
 <tr>
 <td><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">Was CFE tested on the PRIMARY adapter in the backup farm?</span></td>
 <td style="text-align: center;"><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">${u_cfe_primary_tested}</span></td>
 <td style="text-align: center;"><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">${u_cfe_primary_connected}</span></td>
 <td style="text-align: center;"><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">${u_cfe_primary_time}</span></td>
+<td style="text-align: center;"><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">${u_cfe_primary_comments}</span></td>
 </tr>
 <tr>
 <td><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">Was CFE tested on the BACKUP adapter in the backup farm?</span></td>
 <td style="text-align: center;"><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">${u_cfe_backup_tested}</span></td>
 <td style="text-align: center;"><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">${u_cfe_backup_connected}</span></td>
 <td style="text-align: center;"><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">${u_cfe_backup_time}</span></td>
+<td style="text-align: center;"><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">${u_cfe_backup_comments}</span></td>
 </tr>
 <tr bgcolor="#0077bf">
 <td><span style="color: #ffffff;"><strong><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">Testing to be started at 5:30 PM</span></strong></span></td>
 <td style="text-align: center;"><span style="color: #ffffff;"><strong><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">Tested</span></strong></span></td>
 <td style="text-align: center;"><span style="color: #ffffff;"><strong><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">Connected</span></strong></span></td>
 <td style="text-align: center;"><span style="color: #ffffff;"><strong><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">Time</span></strong></span></td>
+<td style="text-align: center;"><span style="color: #ffffff;"><strong><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">Error/Notes</span></strong></span></td>
 </tr>
 <tr>
 <td><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">Was CME tested on the PRIMARY adapter in the backup farm?</span></td>
 <td style="text-align: center;"><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">${u_cme_primary_tested}</span></td>
 <td style="text-align: center;"><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">${u_cme_primary_connected}</span></td>
 <td style="text-align: center;"><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">${u_cme_primary_time}</span></td>
+<td style="text-align: center;"><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">${u_cme_primary_comments}</span></td>
 </tr>
 <tr>
 <td><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">Was CME tested on the BACKUP adapter in the backup farm?</span></td>
 <td style="text-align: center;"><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">${u_cme_backup_tested}</span></td>
 <td style="text-align: center;"><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">${u_cme_backup_connected}</span></td>
 <td style="text-align: center;"><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">${u_cme_backup_time}</span></td>
+<td style="text-align: center;"><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">${u_cme_backup_comments}</span></td>
 </tr>
 <tr bgcolor="#0077bf">
 <td><span style="color: #ffffff;"><strong><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">Testing to be started at 5:55 PM</span></strong></span></td>
 <td style="text-align: center;"><span style="color: #ffffff;"><strong><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">Tested</span></strong></span></td>
 <td style="text-align: center;"><span style="color: #ffffff;"><strong><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">Connected</span></strong></span></td>
 <td style="text-align: center;"><span style="color: #ffffff;"><strong><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">Time</span></strong></span></td>
+<td style="text-align: center;"><span style="color: #ffffff;"><strong><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">Error/Notes</span></strong></span></td>
 </tr>
 <tr>
 <td><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">Was ICEB tested on the PRIMARY adapter in the backup farm?</span></td>
 <td style="text-align: center;"><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">${u_iceb_primary_tested}</span></td>
 <td style="text-align: center;"><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">${u_iceb_primary_connected}</span></td>
 <td style="text-align: center;"><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">${u_iceb_primary_time}</span></td>
+<td style="text-align: center;"><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">${u_iceb_primary_comments}</span></td>
 </tr>
 <tr>
 <td><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">Was ICEB tested on the BACKUP adapter in the backup farm?</span></td>
 <td style="text-align: center;"><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">${u_iceb_backup_tested}</span></td>
 <td style="text-align: center;"><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">${u_iceb_backup_connected}</span></td>
 <td style="text-align: center;"><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">${u_iceb_backup_time}</span></td>
+<td style="text-align: center;"><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">${u_iceb_backup_comments}</span></td>
 </tr>
 <tr bgcolor="#0077bf">
 <td><span style="color: #ffffff;"><strong><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">Testing to be started at 6:10 PM</span></strong></span></td>
 <td style="text-align: center;"><span style="color: #ffffff;"><strong><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">Tested</span></strong></span></td>
 <td style="text-align: center;"><span style="color: #ffffff;"><strong><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">Connected</span></strong></span></td>
 <td style="text-align: center;"><span style="color: #ffffff;"><strong><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">Time</span></strong></span></td>
+<td style="text-align: center;"><span style="color: #ffffff;"><strong><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">Error/Notes</span></strong></span></td>
 </tr>
 <tr>
 <td><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">Was ICE tested on the PRIMARY adapter in the backup farm?</span></td>
 <td style="text-align: center;"><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">${u_ice_primary_tested}</span></td>
 <td style="text-align: center;"><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">${u_ice_primary_connected}</span></td>
 <td style="text-align: center;"><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">${u_ice_primary_time}</span></td>
+<td style="text-align: center;"><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">${u_ice_primary_comments}</span></td>
 </tr>
 <tr>
 <td><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">Was ICE tested on the BACKUP adapter in the backup farm?</span></td>
 <td style="text-align: center;"><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">${u_ice_backup_tested}</span></td>
 <td style="text-align: center;"><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">${u_ice_backup_connected}</span></td>
 <td style="text-align: center;"><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">${u_ice_backup_time}</span></td>
+<td style="text-align: center;"><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">${u_ice_backup_comments}</span></td>
 </tr>
 <tr>
 <td><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">Was ICEE tested on the PRIMARY adapter in the backup farm?</span></td>
 <td style="text-align: center;"><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">${u_icee_primary_tested}</span></td>
 <td style="text-align: center;"><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">${u_icee_primary_connected}</span></td>
 <td style="text-align: center;"><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">${u_icee_primary_time}</span></td>
+<td style="text-align: center;"><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">${u_icee_primary_comments}</span></td>
 </tr>
 <tr>
 <td><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">Was ICEE tested on the BACKUP adapter in the backup farm?</span></td>
 <td style="text-align: center;"><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">${u_icee_backup_tested}</span></td>
 <td style="text-align: center;"><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">${u_icee_backup_connected}</span></td>
 <td style="text-align: center;"><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">${u_icee_backup_time}</span></td>
+<td style="text-align: center;"><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">${u_icee_backup_comments}</span></td>
 </tr>
 <tr bgcolor="#0077bf">
 <td><span style="color: #ffffff;"><strong><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">Testing to be started at 7:05 PM</span></strong></span></td>
 <td style="text-align: center;"><span style="color: #ffffff;"><strong><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">Tested</span></strong></span></td>
 <td style="text-align: center;"><span style="color: #ffffff;"><strong><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">Connected</span></strong></span></td>
 <td style="text-align: center;"><span style="color: #ffffff;"><strong><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">Time</span></strong></span></td>
+<td style="text-align: center;"><span style="color: #ffffff;"><strong><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">Error/Notes</span></strong></span></td>
 </tr>
 <tr>
 <td><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">Was NBQX tested on the PRIMARY adapter in the backup farm?</span></td>
-<td style="text-align: center;"><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">${u_nbqx_primary_tested}</span></td>
-<td style="text-align: center;"><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">${u_nbqx_primary_connected}</span></td>
-<td style="text-align: center;"><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">${u_nbqx_primary_time}</span></td>
+<td style="text-align: center;"><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">${u_nqbx_primary_tested}</span></td>
+<td style="text-align: center;"><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">${u_nqbx_primary_connected}</span></td>
+<td style="text-align: center;"><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">${u_nqbx_primary_time}</span></td>
+<td style="text-align: center;"><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">${u_nqbx_primary_comments}</span></td>
 </tr>
 <tr>
 <td><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">Was NBQX tested on the BACKUP adapter in the backup farm?</span></td>
-<td style="text-align: center;"><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">${u_nbqx_backup_tested}</span></td>
-<td style="text-align: center;"><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">${u_nbqx_backup_connected}</span></td>
-<td style="text-align: center;"><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">${u_nbqx_backup_time}</span></td>
+<td style="text-align: center;"><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">${u_nqbx_backup_tested}</span></td>
+<td style="text-align: center;"><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">${u_nqbx_backup_connected}</span></td>
+<td style="text-align: center;"><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">${u_nqbx_backup_time}</span></td>
+<td style="text-align: center;"><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">${u_nqbx_backup_comments}</span></td>
 </tr>
 <tr bgcolor="#0077bf">
 <td><span style="color: #ffffff;"><strong><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">Testing to be started at 8:02 PM</span></strong></span></td>
 <td style="text-align: center;"><span style="color: #ffffff;"><strong><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">Tested</span></strong></span></td>
 <td style="text-align: center;"><span style="color: #ffffff;"><strong><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">Connected</span></strong></span></td>
 <td style="text-align: center;"><span style="color: #ffffff;"><strong><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">Time</span></strong></span></td>
+<td style="text-align: center;"><span style="color: #ffffff;"><strong><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">Error/Notes</span></strong></span></td>
 </tr>
 <tr>
 <td><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">Was NSDQ tested on the PRIMARY adapter in the backup farm?</span></td>
-<td style="text-align: center;"><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">${u_nsdq_primary_tested}</span></td>
-<td style="text-align: center;"><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">${u_nsdq_primary_connected}</span></td>
-<td style="text-align: center;"><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">${u_nsdq_primary_time}</span></td>
+<td style="text-align: center;"><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">${u_nsbq_primary_tested}</span></td>
+<td style="text-align: center;"><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">${u_nsbq_primary_connected}</span></td>
+<td style="text-align: center;"><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">${u_nsbq_primary_time}</span></td>
+<td style="text-align: center;"><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">${u_nsdq_primary_comments}</span></td>
 </tr>
 <tr>
 <td><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">Was NSDQ tested on the BACKUP adapter in the backup farm?</span></td>
-<td style="text-align: center;"><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">${u_nsdq_backup_tested}</span></td>
-<td style="text-align: center;"><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">${u_nsdq_backup_connected}</span></td>
-<td style="text-align: center;"><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">${u_nsdq_backup_time}</span></td>
+<td style="text-align: center;"><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">${u_nsbq_backup_tested}</span></td>
+<td style="text-align: center;"><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">${u_nsbq_backup_connected}</span></td>
+<td style="text-align: center;"><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">${u_nsbq_backup_time}</span></td>
+<td style="text-align: center;"><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">${u_nsdq_backup_comments}</span></td>
 </tr>
 <tr>
 <td><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">Was BYX tested on the PRIMARY adapter in the backup farm?</span></td>
 <td style="text-align: center;"><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">${u_byx_primary_tested}</span></td>
 <td style="text-align: center;"><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">${u_byx_primary_connected}</span></td>
 <td style="text-align: center;"><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">${u_byx_primary_time}</span></td>
+<td style="text-align: center;"><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">${u_byx_primary_comments}</span></td>
 </tr>
 <tr>
 <td><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">Was BXY tested on the BACKUP adapter in the backup farm?</span></td>
 <td style="text-align: center;"><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">${u_byx_backup_tested}</span></td>
 <td style="text-align: center;"><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">${u_byx_backup_connected}</span></td>
 <td style="text-align: center;"><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">${u_byx_backup_time}</span></td>
+<td style="text-align: center;"><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">${u_byx_primary_comments}</span></td>
 </tr>
 <tr>
 <td><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">Was ARCA tested on the PRIMARY adapter in the backup farm?</span></td>
 <td style="text-align: center;"><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">${u_arca_primary_tested}</span></td>
 <td style="text-align: center;"><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">${u_arca_primary_connected}</span></td>
 <td style="text-align: center;"><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">${u_arca_primary_time}</span></td>
+<td style="text-align: center;"><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">${u_arca_primary_comments}</span></td>
 </tr>
 <tr>
 <td><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">Was ARCA tested on the BACKUP adapter in the backup farm?</span></td>
 <td style="text-align: center;"><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">${u_arca_backup_tested}</span></td>
 <td style="text-align: center;"><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">${u_arca_backup_connected}</span></td>
 <td style="text-align: center;"><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">${u_arca_backup_time}</span></td>
+<td style="text-align: center;"><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">${u_arca_primary_comments}</span></td>
 </tr>
 <tr>
 <td><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">Was AMEX tested on the PRIMARY adapter in the backup farm?</span></td>
 <td style="text-align: center;"><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">${u_amex_primary_tested}</span></td>
 <td style="text-align: center;"><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">${u_amex_primary_connected}</span></td>
 <td style="text-align: center;"><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">${u_amex_primary_time}</span></td>
+<td style="text-align: center;"><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">${u_amex_primary_comments}</span></td>
 </tr>
 <tr>
 <td><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">Was AMEX tested on the BACKUP adapter in the backup farm?</span></td>
 <td style="text-align: center;"><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">${u_amex_backup_tested}</span></td>
 <td style="text-align: center;"><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">${u_amex_backup_connected}</span></td>
 <td style="text-align: center;"><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">${u_amex_backup_time}</span></td>
+<td style="text-align: center;"><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">${u_amex_primary_comments}</span></td>
 </tr>
 <tr>
 <td><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">Was EDGA tested on the PRIMARY adapter in the backup farm?</span></td>
 <td style="text-align: center;"><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">${u_edga_primary_tested}</span></td>
 <td style="text-align: center;"><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">${u_edga_primary_connected}</span></td>
 <td style="text-align: center;"><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">${u_edga_primary_time}</span></td>
+<td style="text-align: center;"><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">${u_edga_primary_comments}</span></td>
 </tr>
 <tr>
 <td><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">Was EDGA tested on the BACKUP adapter in the backup farm?</span></td>
 <td style="text-align: center;"><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">${u_edga_backup_tested}</span></td>
 <td style="text-align: center;"><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">${u_edga_backup_connected}</span></td>
 <td style="text-align: center;"><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">${u_edga_backup_time}</span></td>
+<td style="text-align: center;"><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">${u_edga_primary_comments}</span></td>
 </tr>
 <tr>
 <td><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">Was EDGX tested on the PRIMARY adapter in the backup farm?</span></td>
 <td style="text-align: center;"><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">${u_edgx_primary_tested}</span></td>
 <td style="text-align: center;"><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">${u_edgx_primary_connected}</span></td>
 <td style="text-align: center;"><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">${u_edgx_primary_time}</span></td>
+<td style="text-align: center;"><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">${u_edgx_primary_comments}</span></td>
 </tr>
 <tr>
 <td><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">Was EDGX tested on the BACKUP adapter in the backup farm?</span></td>
 <td style="text-align: center;"><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">${u_edgx_backup_tested}</span></td>
 <td style="text-align: center;"><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">${u_edgx_backup_connected}</span></td>
 <td style="text-align: center;"><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">${u_edgx_backup_time}</span></td>
+<td style="text-align: center;"><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">${u_edgx_backup_comments}</span></td>
 </tr>
 <tr>
 <td><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">Was NITE tested on the PRIMARY adapter in the backup farm?</span></td>
 <td style="text-align: center;"><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">${u_nite_primary_tested}</span></td>
 <td style="text-align: center;"><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">${u_nite_primary_connected}</span></td>
 <td style="text-align: center;"><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">${u_nite_primary_time}</span></td>
+<td style="text-align: center;"><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">${u_nite_primary_comments}</span></td>
 </tr>
 <tr>
 <td><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">Was NITE tested on the BACKUP adapter in the backup farm?</span></td>
 <td style="text-align: center;"><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">${u_nite_backup_tested}</span></td>
 <td style="text-align: center;"><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">${u_nite_backup_connected}</span></td>
 <td style="text-align: center;"><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">${u_nite_backup_time}</span></td>
+<td style="text-align: center;"><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">${u_nite_backup_comments}</span></td>
 </tr>
 <tr>
 <td><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">Was CTDL tested on the PRIMARY adapter in the backup farm?</span></td>
 <td style="text-align: center;"><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">${u_ctdl_primary_tested}</span></td>
 <td style="text-align: center;"><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">${u_ctdl_primary_connected}</span></td>
 <td style="text-align: center;"><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">${u_ctdl_primary_time}</span></td>
+<td style="text-align: center;"><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">${u_ctdl_primary_comments}</span></td>
 </tr>
 <tr>
 <td><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">Was CTDL tested on the BACKUP adapter in the backup farm?</span></td>
 <td style="text-align: center;"><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">${u_ctdl_backup_tested}</span></td>
 <td style="text-align: center;"><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">${u_ctdl_backup_connected}</span></td>
 <td style="text-align: center;"><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">${u_ctdl_backup_time}</span></td>
+<td style="text-align: center;"><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">${u_ctdl_backup_comments}</span></td>
 </tr>
 <tr>
 <td><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">Was BATS tested on the PRIMARY adapter in the backup farm?</span></td>
 <td style="text-align: center;"><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">${u_bats_primary_tested}</span></td>
 <td style="text-align: center;"><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">${u_bats_primary_connected}</span></td>
 <td style="text-align: center;"><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">${u_bats_primary_time}</span></td>
+<td style="text-align: center;"><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">${u_bats_primary_comments}</span></td>
 </tr>
 <tr>
 <td><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">Was BATS tested on the BACKUP adapter in the backup farm?</span></td>
 <td style="text-align: center;"><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">${u_bats_backup_tested}</span></td>
 <td style="text-align: center;"><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">${u_bats_backup_connected}</span></td>
 <td style="text-align: center;"><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">${u_bats_backup_time}</span></td>
+<td style="text-align: center;"><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">${u_bats_backup_comments}</span></td>
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
 <p>&nbsp;</p>]]></message_html>
         <message_list/>
         <message_text/>
@@ -448,7 +515,7 @@
         <recipient_fields/>
         <recipient_groups/>
         <recipient_users>BSOD@tradestation.com</recipient_users>
-        <reply_to>Global Operations &lt;tradestationdev@service-now.com&gt;</reply_to>
+        <reply_to>Global Operations &lt;#GSC@tradestation.com&gt;</reply_to>
         <send_self>true</send_self>
         <sms_alternate/>
         <style/>
@@ -461,7 +528,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>13fb2283dbbdeb007d8f3a92ba9619f1</sys_id>
-        <sys_mod_count>23</sys_mod_count>
+        <sys_mod_count>41</sys_mod_count>
         <sys_name>Adapter Testing</sys_name>
         <sys_overrides/>
         <sys_package display_value="Friday Night Adapter Testing" source="x_trg_friday_night">2f4332ffdb892f409b446165ca9619a3</sys_package>
@@ -470,7 +537,7 @@
         <sys_scope display_value="Friday Night Adapter Testing">2f4332ffdb892f409b446165ca9619a3</sys_scope>
         <sys_update_name>sysevent_email_action_13fb2283dbbdeb007d8f3a92ba9619f1</sys_update_name>
         <sys_updated_by>jcampos-admin</sys_updated_by>
-        <sys_updated_on>2018-11-22 13:45:21</sys_updated_on>
+        <sys_updated_on>2018-12-20 18:35:11</sys_updated_on>
         <sys_version>2</sys_version>
         <template/>
         <type>email</type>
