@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <database>
     <element label="Friday Night Adapter Testing Table" max_length="40" name="x_trg_friday_night_adapter_testing_table" type="collection">
+        <element label="Approved" max_length="40" name="approved" type="boolean"/>
         <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Error/Notes" max_length="600" name="u_amex_backup_comments" type="string"/>
         <element attributes="edge_encryption_enabled=true" choice="1" label="Connected" max_length="40" name="u_amex_backup_connected" type="string">
@@ -30,9 +31,8 @@
             </choice>
         </element>
         <element label="Time" max_length="40" name="u_amex_primary_time" type="glide_time"/>
-        <element label="Approved" max_length="40" name="u_approved" type="boolean"/>
-        <element label="Approved by" max_length="32" name="u_approved_by" reference="sys_user" type="reference"/>
-        <element label="Approved On" max_length="40" name="u_approved_on" type="glide_date_time"/>
+        <element label="Approved by" max_length="32" name="u_approved_by" read_only="true" reference="sys_user" type="reference"/>
+        <element label="Approved On" max_length="40" name="u_approved_on" read_only="true" type="glide_date_time"/>
         <element attributes="edge_encryption_enabled=true" label="Error/Notes" max_length="600" name="u_arca_backup_comments" type="string"/>
         <element attributes="edge_encryption_enabled=true" choice="1" label="Connected" max_length="40" name="u_arca_backup_connected" type="string">
             <choice>
