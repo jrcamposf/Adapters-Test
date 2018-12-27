@@ -514,7 +514,7 @@
         <push_message_only>false</push_message_only>
         <recipient_fields/>
         <recipient_groups/>
-        <recipient_users>BSOD@tradestation.com</recipient_users>
+        <recipient_users>BSOD@tradestation.com,#SITOXC@tradestation.com</recipient_users>
         <reply_to>Global Operations &lt;#GSC@tradestation.com&gt;</reply_to>
         <send_self>true</send_self>
         <sms_alternate/>
@@ -528,7 +528,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>13fb2283dbbdeb007d8f3a92ba9619f1</sys_id>
-        <sys_mod_count>41</sys_mod_count>
+        <sys_mod_count>42</sys_mod_count>
         <sys_name>Adapter Testing</sys_name>
         <sys_overrides/>
         <sys_package display_value="Friday Night Adapter Testing" source="x_trg_friday_night">2f4332ffdb892f409b446165ca9619a3</sys_package>
@@ -537,7 +537,7 @@
         <sys_scope display_value="Friday Night Adapter Testing">2f4332ffdb892f409b446165ca9619a3</sys_scope>
         <sys_update_name>sysevent_email_action_13fb2283dbbdeb007d8f3a92ba9619f1</sys_update_name>
         <sys_updated_by>jcampos-admin</sys_updated_by>
-        <sys_updated_on>2018-12-20 18:35:11</sys_updated_on>
+        <sys_updated_on>2018-12-27 14:53:17</sys_updated_on>
         <sys_version>2</sys_version>
         <template/>
         <type>email</type>
